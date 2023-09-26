@@ -739,6 +739,378 @@
     "prompt": "fairy tale chronicles chronicles chronicles chronicles chronicles vector illustration {prompt} . fairy tale stories, magical chronicles",
     "negative_prompt": "non-fairy tale stories, mundane chronicles, uninspiring stories"
   },
+    {
+    "name": "Cute Fantasy Creatures",
+    "prompt": "cute fantasy creatures in 3D {prompt} . whimsical, magical, charming, fantasy world, adorable character design",
+    "negative_prompt": "frightening, grotesque, menacing, dark, sinister"
+  },
+  {
+    "name": "Cartoon Animals",
+    "prompt": "cartoon-style 3D animals {prompt} . animated, expressive, lovable animal characters, playful",
+    "negative_prompt": "realistic, lifeless, uninteresting, plain"
+  },
+  {
+    "name": "Kawaii 3D Characters",
+    "prompt": "kawaii 3D character art {prompt} . super cute, Japanese kawaii style, chibi characters, pastel colors",
+    "negative_prompt": "gritty, edgy, harsh, monotone"
+  },
+  {
+    "name": "Fairy Tale Characters",
+    "prompt": "fairy tale 3D characters {prompt} . fairy tale world, enchanting, storybook characters, adorable fantasy beings",
+    "negative_prompt": "boring, ordinary, mundane, unappealing"
+  },
+  {
+    "name": "Adorable Alien Beings",
+    "prompt": "adorable 3D alien characters {prompt} . extraterrestrial cuteness, otherworldly charm, friendly alien creatures",
+    "negative_prompt": "terrifying aliens, alien invaders, grotesque beings"
+  },
+  {
+    "name": "Baby Animals in 3D",
+    "prompt": "3D baby animals {prompt} . baby animal cuteness, tiny and adorable creatures, cute animal babies",
+    "negative_prompt": "adult animals, unattractive animals, scary animals"
+  },
+  {
+    "name": "Magical 3D Creatures",
+    "prompt": "magical 3D creatures {prompt} . mystical beings, enchanting creatures, cute magical entities",
+    "negative_prompt": "dull, unmagical, ordinary creatures"
+  },
+  {
+    "name": "Charming Fantasy Characters",
+    "prompt": "charming 3D fantasy characters {prompt} . fantasy world, lovable heroes, adorable fantasy adventures",
+    "negative_prompt": "mundane characters, uninteresting adventures"
+  },
+  {
+    "name": "Sweet 3D Monsters",
+    "prompt": "sweet 3D monsters {prompt} . lovable monsters, friendly creatures, cute monster design",
+    "negative_prompt": "terrifying monsters, evil creatures, nightmarish beings"
+  },
+  {
+    "name": "Adorable Robots",
+    "prompt": "adorable 3D robot characters {prompt} . cute robot design, charming mechanical beings, lovable robots",
+    "negative_prompt": "menacing robots, destructive machines"
+  },
+  {
+    "name": "Fuzzy Fantasy Beasts",
+    "prompt": "fuzzy 3D fantasy creatures {prompt} . cuddly fantasy beings, fluffy and adorable creatures",
+    "negative_prompt": "spiky, scary, unapproachable creatures"
+  },
+  {
+    "name": "Enchanted 3D Critters",
+    "prompt": "enchanted 3D critters {prompt} . magical critters, charming and mystical creatures",
+    "negative_prompt": "non-magical critters, boring animals"
+  },
+  {
+    "name": "Adorable 3D Avatars",
+    "prompt": "adorable 3D avatars {prompt} . cute virtual avatars, charming digital personas",
+    "negative_prompt": "unattractive avatars, unappealing digital identities"
+  },
+  {
+    "name": "Fantasy World Friends",
+    "prompt": "fantasy world friends in 3D {prompt} . lovable companions, cute fantasy sidekicks",
+    "negative_prompt": "unfriendly companions, dull sidekicks"
+  },  {
+    "name": "Watercolor Landscape",
+    "prompt": "watercolor landscape painting {prompt}. soft brushstrokes, vibrant colors, scenic view, natural beauty",
+    "negative_prompt": "digital, pixel art, abstract, messy, chaotic, non-representational"
+  },
+  {
+    "name": "Impressionist Landscape",
+    "prompt": "impressionist landscape artwork {prompt}. capturing light, brushwork, plein air, atmospheric, Claude Monet",
+    "negative_prompt": "realism, hyperrealism, geometric, symmetrical, lifeless, dull"
+  },
+  {
+    "name": "Abstract Landscape",
+    "prompt": "abstract landscape painting {prompt}. non-representational, expressive, shapes, colors, emotions",
+    "negative_prompt": "realistic, detailed, literal, uninspired, dull, lifeless"
+  },
+  {
+    "name": "Surreal Landscape",
+    "prompt": "surreal landscape illustration {prompt}. dreamlike, bizarre, juxtaposition, Salvador Dali",
+    "negative_prompt": "ordinary, straightforward, mundane, predictable"
+  },
+  {
+    "name": "Minimalist Landscape",
+    "prompt": "minimalist landscape art {prompt}. simplicity, clean lines, stark beauty, less is more",
+    "negative_prompt": "cluttered, busy, chaotic, overcomplicated"
+  },
+  {
+    "name": "Chinese Ink Landscape",
+    "prompt": "Chinese ink landscape painting {prompt}. traditional, flowing strokes, harmony, Zen",
+    "negative_prompt": "digital, Western, bright colors, chaotic"
+  },
+  {
+    "name": "Fantasy Landscape",
+    "prompt": "fantasy landscape illustration {prompt}. mythical creatures, magical realms, epic adventures",
+    "negative_prompt": "realistic, everyday, mundane, dull, lifeless"
+  },
+  {
+    "name": "Cubist Landscape",
+    "prompt": "cubist landscape artwork {prompt}. fragmented, geometric, Picasso, multiple perspectives",
+    "negative_prompt": "realistic, seamless, conventional, single perspective"
+  },
+  {
+    "name": "Pop Art Landscape",
+    "prompt": "pop art landscape painting {prompt}. bold colors, iconic imagery, Andy Warhol",
+    "negative_prompt": "subdued, muted, ordinary, unremarkable"
+  },
+  {
+    "name": "Digital Painting",
+    "prompt": "digital landscape art {prompt}. high-resolution, endless possibilities, digital medium",
+    "negative_prompt": "analog, traditional, limitations, low-resolution"
+  },
+  {
+    "name": "Realistic Landscape",
+    "prompt": "realistic landscape painting {prompt}. detailed, lifelike, natural scenery",
+    "negative_prompt": "abstract, surreal, distorted, exaggerated"
+  },
+  {
+    "name": "Gothic Landscape",
+    "prompt": "gothic landscape illustration {prompt}. dark, eerie, Gothic architecture, haunting beauty",
+    "negative_prompt": "bright, cheerful, modern, ordinary"
+  },
+  {
+    "name": "Fauvist Landscape",
+    "prompt": "Fauvist landscape artwork {prompt}. vibrant colors, wild brushwork, Henri Matisse",
+    "negative_prompt": "dull, muted, restrained, precise"
+  },
+  {
+    "name": "Romantic Landscape",
+    "prompt": "romantic landscape painting {prompt}. emotional, picturesque, sublime, Caspar David Friedrich",
+    "negative_prompt": "pragmatic, uninspired, unemotional, ordinary"
+  },
+  {
+    "name": "Landscape Collage",
+    "prompt": "landscape collage art {prompt}. mixed media, layered, textures, storytelling",
+    "negative_prompt": "single medium, flat, unlayered, non-textured"
+  },
+  {
+    "name": "Pointillism Landscape",
+    "prompt": "pointillism landscape painting {prompt}. dots, color theory, Georges Seurat",
+    "negative_prompt": "solid, continuous, colorless"
+  },
+  {
+    "name": "Graffiti Landscape",
+    "prompt": "graffiti-style landscape illustration {prompt}. urban, street art, rebellious",
+    "negative_prompt": "clean, polished, conformist"
+  },
+  {
+    "name": "Countryside Landscape",
+    "prompt": "countryside landscape painting {prompt}. rural, peaceful, idyllic, pastoral",
+    "negative_prompt": "urban, chaotic, industrial, noisy"
+  },
+  {
+    "name": "Digital Surrealism",
+    "prompt": "digital surrealism landscape {prompt}. dreamscapes, distorted reality, digital manipulation",
+    "negative_prompt": "conventional, straightforward, reality"
+  }, {
+    "name": "Vibrant Anime Colors",
+    "prompt": "vibrant anime colors in {prompt}. Bold and lively color palette, eye-catching hues, vivid characters",
+    "negative_prompt": "dull colors, lack of vibrancy, muted tones, uninteresting color choices"
+  },
+  {
+    "name": "Chibi Characters",
+    "prompt": "Chibi-style anime art featuring {prompt}. Cute and exaggerated chibi characters, adorable expressions, playful poses",
+    "negative_prompt": "realistic characters, lack of cuteness, stiff poses, unexpressive faces"
+  },
+  {
+    "name": "Fantasy Anime World",
+    "prompt": "immersive fantasy anime world with {prompt}. Enchanting landscapes, mythical creatures, epic adventures, rich world-building",
+    "negative_prompt": "lack of fantasy elements, generic landscapes, shallow world-building, unconvincing creatures"
+  },
+  {
+    "name": "Magical Girl Transformation",
+    "prompt": "magical girl transformation sequence with {prompt}. Sparkling transformations, magical auras, intricate outfits, stunning visual effects",
+    "negative_prompt": "bland transformations, lack of magic, uninspired outfits, poor visual effects"
+  },
+  {
+    "name": "Mecha Battle",
+    "prompt": "intense mecha battle scene featuring {prompt}. Gigantic robots, high-tech weaponry, dynamic combat, futuristic cityscapes",
+    "negative_prompt": "boring mecha designs, unexciting battles, lack of futuristic elements, unconvincing technology"
+  },
+  {
+    "name": "Samurai Duel",
+    "prompt": "samurai duel in {prompt}. Traditional katana clashes, honor-bound warriors, dramatic lighting, cherry blossoms",
+    "negative_prompt": "inauthentic samurai duels, lack of honor, unimpressive swordsmanship, absence of cultural elements"
+  },
+  {
+    "name": "Cyberpunk Anime",
+    "prompt": "cyberpunk anime featuring {prompt}. Neon-lit cityscapes, cybernetic enhancements, hackers, dystopian futures, futuristic fashion",
+    "negative_prompt": "lack of cyberpunk aesthetics, uninspired cityscapes, unconvincing technology, dull fashion"
+  },
+  {
+    "name": "Mystical Creatures",
+    "prompt": "mystical creatures in {prompt}. Enigmatic beasts, magical beings, otherworldly landscapes, hidden realms",
+    "negative_prompt": "unimpressive creatures, lack of mysticism, unconvincing landscapes, uninspired beings"
+  },
+  {
+    "name": "School Romance",
+    "prompt": "school romance anime with {prompt}. Heartfelt love stories, emotional moments, school uniforms, blushing characters",
+    "negative_prompt": "lack of romance, unconvincing relationships, emotionless characters, absence of school elements"
+  },{
+    "name": "Isekai Adventure",
+    "prompt": "isekai adventure anime with {prompt}. Transported to another world, fantasy races, epic quests, magical powers, charismatic heroes",
+    "negative_prompt": "lackluster isekai adventures, unconvincing fantasy worlds, uninspired quests, uninteresting magical elements"
+},
+{
+    "name": "Kawaii Food Art",
+    "prompt": "kawaii food art featuring {prompt}. Adorable food illustrations, smiling snacks, cute bento boxes, sweet treats",
+    "negative_prompt": "unappetizing food art, lack of cuteness, dull food illustrations, uncreative presentations"
+},
+{
+    "name": "Sci-Fi Space Opera",
+    "prompt": "sci-fi space opera anime set in {prompt}. Galactic wars, starships, alien civilizations, epic space battles, futuristic technology",
+    "negative_prompt": "uninspiring space operas, lack of futuristic elements, unconvincing alien races, dull space battles"
+},
+{
+    "name": "Historical Samurai Epic",
+    "prompt": "historical samurai epic in {prompt}. Feudal Japan, honorable warriors, political intrigue, katana duels, traditional architecture",
+    "negative_prompt": "inauthentic historical settings, dishonorable characters, unimpressive duels, lack of traditional elements"
+},
+{
+    "name": "Idol Music Performance",
+    "prompt": "idol music performance in {prompt}. Sparkling stage, idol groups, catchy songs, energetic choreography, fan excitement",
+    "negative_prompt": "forgettable music performances, lack of energy, uninspiring choreography, disinterested fans"
+},
+{
+    "name": "Mystical Forest",
+"prompt": "mystical forest scene in {prompt}. Enchanted woods, magical creatures, bioluminescent flora, hidden secrets",
+"negative_prompt": "ordinary forests, lack of enchantment, uninspiring creatures, dull vegetation"
+},
+{
+    "name": "Giant Mecha Monsters",
+"prompt": "giant mecha monsters in {prompt}. Colossal robotic beasts, destructive battles, epic clashes, urban destruction",
+"negative_prompt": "mediocre mecha monsters, lack of destruction, unimpressive battles, uninspiring robot designs"
+},
+{
+    "name": "Classic Shoujo Romance",
+"prompt": "classic shoujo romance anime with {prompt}. Blossoming love, romantic tension, elegant character designs, dreamy scenes",
+"negative_prompt": "lack of romance, unconvincing relationships, unattractive character designs, uninteresting scenes"
+},
+{
+    "name": "Superhero Team-Up",
+"prompt": "superhero team-up anime featuring {prompt}. Dynamic heroes, epic crossovers, powerful alliances, world-saving missions",
+"negative_prompt": "unimpressive heroes, lack of crossovers, weak alliances, unconvincing world-saving missions"
+},
+{
+    "name": "Mythical Beasts",
+"prompt": "mythical beasts in {prompt}. Legendary creatures, epic battles, ancient prophecies, mythical realms",
+"negative_prompt": "ordinary creatures, lack of legend, unimpressive battles, uninspired realms"
+},
+{
+    "name": "Kawaii Animals",
+"prompt": "kawaii animals in {prompt}. Cute and cuddly creatures, heartwarming scenes, adorable pets, lovable wildlife",
+"negative_prompt": "unattractive animals, lack of cuteness, uninteresting scenes, uninspired pets"
+},
+{
+    "name": "High School Slice of Life",
+"prompt": "high school slice of life anime in {prompt}. Everyday adventures, school friendships, heartwarming moments, relatable characters",
+"negative_prompt": "uninteresting high school life, lack of friendships, uninspiring moments, unrelatable characters"
+},
+{
+    "name": "Epic Fantasy Battles",
+"prompt": "epic fantasy battles in {prompt}. Heroic warriors, magical clashes, epic landscapes, destiny-defining moments",
+"negative_prompt": "unheroic battles, lack of magic, uninspiring landscapes, unconvincing destinies"
+},
+{
+    "name": "Mecha Racing",
+"prompt": "mecha racing anime featuring {prompt}. High-speed races, futuristic tracks, technologically advanced mecha, intense competition",
+"negative_prompt": "unexciting mecha races, lack of futuristic elements, uninspired tracks, uncompetitive atmosphere"
+},
+{
+    "name": "Mystical Artifacts",
+"prompt": "mystical artifacts in {prompt}. Powerful relics, ancient mysteries, supernatural powers, world-altering consequences",
+"negative_prompt": "ordinary artifacts, lack of mystery, uninspiring powers, unworldly consequences"
+},
+{
+    "name": "Magic Academy",
+"prompt": "magic academy anime set in {prompt}. Young wizards, magical training, enchanted classrooms, mystical creatures",
+"negative_prompt": "unimpressive magic academies, lack of wizardry, uninspiring training, unmagical creatures"
+},
+{
+    "name": "Time Travel Adventure",
+"prompt": "time travel adventure anime in {prompt}. Temporal anomalies, historical journeys, paradoxes, alternate realities",
+"negative_prompt": "uninteresting time travels, lack of history, uninspired paradoxes, unconvincing realities"
+},
+{
+    "name": "Futuristic Cityscapes",
+"prompt": "futuristic cityscapes in {prompt}. High-tech metropolis, neon lights, flying cars, advanced architecture",
+"negative_prompt": "unfuturistic cityscapes, lack of technology, uninspired lights, grounded cars, outdated architecture"
+},
+{
+    "name": "Kawaii Fashion",
+"prompt": "kawaii fashion in {prompt}. Cute outfits, stylish accessories, fashionable characters, trendsetting looks",
+"negative_prompt": "unstylish fashion, lack of cuteness, uninspiring outfits, outdated characters"
+},
+{
+    "name": "Post-Apocalyptic Survival",
+"prompt": "post-apocalyptic survival anime featuring {prompt}. Ravaged world, resilient survivors, scarce resources, desperate battles",
+"negative_prompt": "unimpressive post-apocalypses, lack of resilience, uninspiring resources, unconvincing battles"
+},
+{
+    "name": "Haunted House",
+"prompt": "haunted house scene in {prompt}. Ghostly apparitions, eerie atmosphere, spine-tingling chills, paranormal investigations",
+"negative_prompt": "unhaunted houses, lack of ghosts, uninspiring atmosphere, unspine-tingling scenes, amateur investigations"
+},
+{
+    "name": "Mythical Legends",
+"prompt": "mythical legends in {prompt}. Legendary heroes, epic quests, mythical creatures, divine interventions",
+"negative_prompt": "unlegendary heroes, lack of quests, uninspiring creatures, unconvincing divine interventions"
+},
+{
+    "name": "Giant Kaiju Battles",
+"prompt": "giant kaiju battles in {prompt}. Massive monsters, epic showdowns, city-destroying clashes, heroic defenders",
+"negative_prompt": "unimpressive kaiju, lack of showdowns, uninspiring destruction, unheroic defenders"
+},
+{
+    "name": "Dreamy Worlds",
+"prompt": "dreamy worlds in {prompt}. Surreal landscapes, imaginative realms, whimsical settings, fantastical adventures",
+"negative_prompt": "unsurreal worlds, lack of imagination, uninspiring realms, unwhimsical settings, unconvincing adventures"
+},
+{
+    "name": "Legendary Swords",
+"prompt": "legendary swords in {prompt}. Mythical blades, heroic wielders, epic battles, world-changing destinies",
+"negative_prompt": "unlegendary swords, lack of mythical blades, uninspiring wielders, unheroic battles, unworld-changing destinies"
+},
+{
+    "name": "Mystical Powers",
+"prompt": "mystical powers in {prompt}. Supernatural abilities, cosmic forces, magical phenomena, reality-bending feats",
+"negative_prompt": "unmystical powers, lack of supernatural abilities, uninspiring forces, unmagical phenomena, unreality-bending feats"
+},
+{
+    "name": "Superhuman Heroes",
+"prompt": "superhuman heroes in {prompt}. Extraordinary abilities, heroic feats, epic battles, secret identities",
+"negative_prompt": "unsuperhuman heroes, lack of extraordinary abilities, uninspiring feats, unheroic battles, revealed identities"
+},
+{
+    "name": "Kawaii Robots",
+"prompt": "kawaii robots in {prompt}. Cute and friendly robotic companions, heartwarming interactions, charming AI",
+"negative_prompt": "unfriendly robots, lack of cuteness, uninspiring interactions, charmless AI"
+},
+{
+    "name": "Haunted Forest",
+"prompt": "haunted forest scene in {prompt}. Ghostly apparitions, sinister trees, eerie atmosphere, chilling encounters",
+"negative_prompt": "unhaunted forests, lack of ghosts, uninspiring trees, unspooky atmosphere, unchilling encounters"
+},
+{
+    "name": "Mecha Pilots",
+"prompt": "mecha pilots in {prompt}. Skilled mech operators, epic battles, high-tech suits, futuristic combat",
+"negative_prompt": "unskilled mech operators, lack of epic battles, uninspiring suits, outdated combat"
+},
+{
+    "name": "Mysterious Aliens",
+"prompt": "mysterious aliens in {prompt}. Extraterrestrial beings, enigmatic encounters, interstellar mysteries, cosmic revelations",
+"negative_prompt": "unmysterious aliens, lack of extraterrestrial beings, uninspiring encounters, uninterstellar mysteries, uncognitive revelations"
+},
+{
+    "name": "Kawaii Fantasy Creatures",
+"prompt": "kawaii fantasy creatures in {prompt}. Adorable mythical beings, whimsical adventures, charming fantasy worlds",
+"negative_prompt": "unattractive fantasy creatures, lack of charm, uninspiring adventures, uncharming fantasy worlds"
+},
+{
+    "name": "Digital Fantasy Art",
+"prompt": "digital fantasy art of {prompt}. Immaculate digital illustrations, intricate details, stunning fantasy landscapes",
+"negative_prompt": "imperfect digital art, lack of intricate details, uninspiring landscapes"
+},
   {
     "name": "3D Model",
     "prompt": "professional 3d model {prompt} . octane render, highly detailed, volumetric, dramatic lighting",
