@@ -5,6 +5,741 @@
     "negative_prompt": ""
   },
   {
+    "name": "Abstract Vector",
+    "prompt": "abstract vector art {prompt} . geometric shapes, vibrant colors, vector illustration, digital art, modern, contemporary, fluid lines",
+    "negative_prompt": "realism, photography, analog, black and white, chaotic, messy, disorganized"
+  },
+  {
+    "name": "Watercolor Vector",
+    "prompt": "watercolor-style vector painting {prompt} . soft edges, translucent colors, digital watercolor, painterly, artistic, flowing, delicate",
+    "negative_prompt": "sharp lines, pixelated, blocky, mechanical, artificial, unnatural"
+  },
+  {
+    "name": "Pop Art Vector",
+    "prompt": "pop art vector illustration {prompt} . bold colors, comic book style, celebrities, cultural icons, Andy Warhol inspired, pop culture",
+    "negative_prompt": "monochromatic, subtle, understated, dull, lifeless, unexciting"
+  },
+  {
+    "name": "Minimalist Vector",
+    "prompt": "minimalist vector design {prompt} . simplicity, clean lines, minimalistic, minimalist art, white space, elegant, Zen",
+    "negative_prompt": "complex, cluttered, chaotic, overdone, intricate, busy"
+  },
+  {
+    "name": "Graffiti Vector",
+    "prompt": "graffiti-style vector art {prompt} . urban, street art, spray paint, graffiti tags, rebellious, edgy, graffiti culture",
+    "negative_prompt": "neat, tidy, conformist, bland, sterile, uninspiring"
+  },
+  {
+    "name": "Vintage Vector",
+    "prompt": "vintage vector artwork {prompt} . retro, nostalgic, vintage design, old-fashioned, aged, antique, classic",
+    "negative_prompt": "modern, contemporary, futuristic, high-tech, cutting-edge"
+  },
+  {
+    "name": "Surreal Vector",
+    "prompt": "surreal vector illustration {prompt} . dreamlike, bizarre, surrealism, fantasy, subconscious, imaginative, mind-bending",
+    "negative_prompt": "realistic, straightforward, ordinary, predictable, uncreative"
+  },
+  {
+    "name": "Neon Vector",
+    "prompt": "neon vector art {prompt} . glowing, neon lights, cyberpunk, futuristic, vibrant, electric, nightlife",
+    "negative_prompt": "dull, dim, lifeless, uninspired, outdated"
+  },
+  {
+    "name": "Sci-Fi Vector",
+    "prompt": "sci-fi vector illustration {prompt} . futuristic, space age, science fiction, otherworldly, hi-tech, cybernetic",
+    "negative_prompt": "historic, ancient, prehistoric, primitive, outdated"
+  },
+  {
+    "name": "Fantasy Vector",
+    "prompt": "fantasy vector art {prompt} . mythical creatures, magical realms, epic fantasy, enchanting, ethereal, whimsical",
+    "negative_prompt": "realistic, mundane, uninspiring, unremarkable"
+  },
+  {
+    "name": "Cartoon Vector",
+    "prompt": "cartoon-style vector illustration {prompt} . playful, animated, caricature, comic strip, humor, fun",
+    "negative_prompt": "serious, somber, humorless, dull, uninspiring"
+  },
+  {
+    "name": "Futuristic Vector",
+    "prompt": "futuristic vector design {prompt} . cutting-edge, futuristic, high-tech, sleek, sci-fi, avant-garde",
+    "negative_prompt": "outdated, old-fashioned, obsolete, retro"
+  },
+  {
+    "name": "Nature Vector",
+    "prompt": "nature-inspired vector art {prompt} . flora, fauna, natural beauty, eco-friendly, organic, environmental",
+    "negative_prompt": "artificial, synthetic, industrial, lifeless"
+  },
+  {
+    "name": "Space Vector",
+    "prompt": "space-themed vector illustration {prompt} . galaxies, stars, cosmic, astronomical, celestial, space exploration",
+    "negative_prompt": "earthbound, mundane, terrestrial, uninspiring"
+  },
+  {
+    "name": "Cyberpunk Vector",
+    "prompt": "cyberpunk vector art {prompt} . dystopian, futuristic, cybernetic, neon-lit, techno-noir, hackers, rebels",
+    "negative_prompt": "conformist, traditional, conservative, low-tech"
+  },
+  {
+    "name": "Retro Vector",
+    "prompt": "retro vector design {prompt} . vintage, nostalgic, retro style, old-school, classic, throwback",
+    "negative_prompt": "modern, contemporary, cutting-edge, futuristic"
+  },
+  {
+    "name": "Manga Vector",
+    "prompt": "manga-style vector illustration {prompt} . Japanese comics, anime-inspired, manga art, manga culture",
+    "negative_prompt": "western, non-Japanese, foreign, out-of-place"
+  },
+  {
+    "name": "Gothic Vector",
+    "prompt": "gothic vector art {prompt} . dark, mysterious, gothic architecture, Gothic culture, Gothic fashion",
+    "negative_prompt": "bright, cheerful, colorful, mundane"
+  },
+  {
+    "name": "Abstract Expressionism Vector",
+    "prompt": "abstract expressionism vector painting {prompt} . spontaneous, emotional, abstract expressionist, gestural art",
+    "negative_prompt": "precise, controlled, meticulous, lifeless"
+  },
+  {
+    "name": "Digital Art Vector",
+    "prompt": "digital art-inspired vector illustration {prompt} . digital painting, digital art, digital medium, hi-tech, computer-generated",
+    "negative_prompt": "analog, traditional, handmade, low-tech"
+  },
+  {
+    "name": "Impressionist Vector",
+    "prompt": "impressionist vector artwork {prompt} . Impressionism, light and color, atmospheric, brushstrokes, plein air",
+    "negative_prompt": "realistic, detailed, photographic, hyper-realism"
+  },
+  {
+    "name": "Cubist Vector",
+    "prompt": "cubist vector design {prompt} . Cubism, abstract, fragmented, multiple perspectives, Picasso-inspired",
+    "negative_prompt": "realistic, cohesive, unified, one-dimensional"
+  },
+  {
+    "name": "Art Deco Vector",
+    "prompt": "Art Deco vector illustration {prompt} . Roaring Twenties, Gatsby era, elegant, geometric, luxury, opulent",
+    "negative_prompt": "minimalist, austere, plain, ordinary"
+  },
+  {
+    "name": "Surrealist Vector",
+    "prompt": "surrealist vector art {prompt} . Salvador Dali, dreamlike, bizarre, surreal, subconscious",
+    "negative_prompt": "realistic, ordinary, everyday, mundane"
+  },
+  {
+    "name": "Vintage Advertisement Vector",
+    "prompt": "vintage advertisement vector {prompt} . retro advertising, vintage ads, nostalgic, advertising art, old-school",
+    "negative_prompt": "modern advertising, contemporary ads, futuristic promotions"
+  },
+  {
+    "name": "Sci-Fi Space Vector",
+    "prompt": "sci-fi space vector illustration {prompt} . futuristic spacecraft, alien worlds, sci-fi landscapes, interstellar travel",
+    "negative_prompt": "mundane landscapes, ordinary spaceships, non-futuristic settings"
+  },
+  {
+    "name": "Fantasy Creatures Vector",
+    "prompt": "fantasy creatures vector art {prompt} . mythical beasts, dragons, unicorns, fantastical creatures, magical",
+    "negative_prompt": "ordinary animals, real-world creatures, non-magical beings"
+  },
+  {
+    "name": "Children's Book Vector",
+    "prompt": "children's book vector illustration {prompt} . whimsical, child-friendly, storybook art, fairy tales, kid's book",
+    "negative_prompt": "adult themes, serious subjects, non-child-friendly content"
+  },
+  {
+    "name": "Steampunk Vector",
+    "prompt": "steampunk vector design {prompt} . Victorian era, steam-powered, industrial, gears, cogs, retro-futuristic",
+    "negative_prompt": "modern technology, futuristic, high-tech, sleek"
+  },
+  {
+    "name": "Cultural Vector",
+    "prompt": "cultural vector artwork {prompt} . cultural heritage, traditions, customs, indigenous art, cultural diversity",
+    "negative_prompt": "cultural appropriation, disrespect, insensitivity, cultural insensitivity"
+  },
+  {
+    "name": "Music Vector",
+    "prompt": "music-inspired vector art {prompt} . musical notes, instruments, music festivals, music culture, rhythm",
+    "negative_prompt": "non-musical themes, silence, dissonance, tone-deaf"
+  },
+  {
+    "name": "Sports Vector",
+    "prompt": "sports-themed vector illustration {prompt} . athletes, sports events, sporting culture, competition, sportsmanship",
+    "negative_prompt": "non-sports themes, sedentary lifestyle, anti-sports, inactivity"
+  },
+  {
+    "name": "Nature Conservation Vector",
+    "prompt": "nature conservation vector design {prompt} . environmental protection, wildlife conservation, eco-conscious, green initiatives",
+    "negative_prompt": "environmental degradation, exploitation, deforestation, pollution"
+  },
+  {
+    "name": "Food Vector",
+    "prompt": "food-themed vector artwork {prompt} . culinary delights, gastronomy, food culture, delicious, mouthwatering",
+    "negative_prompt": "inedible, unappetizing, repulsive, spoiled"
+  },
+  {
+    "name": "Travel Vector",
+    "prompt": "travel-inspired vector art {prompt} . wanderlust, adventure, globetrotting, travel culture, exploration",
+    "negative_prompt": "staycation, homebound, sedentary, travel restrictions"
+  },
+  {
+    "name": "Fashion Vector",
+    "prompt": "fashion-inspired vector illustration {prompt} . haute couture, fashion trends, runway models, style, glamour",
+    "negative_prompt": "unfashionable, outdated, fashion faux pas, style blunders"
+  },
+  {
+    "name": "Film Vector",
+    "prompt": "film-inspired vector design {prompt} . movie posters, cinema, film culture, Hollywood, iconic movie scenes",
+    "negative_prompt": "non-cinematic themes, uninspiring films, unknown movies"
+  },
+  {
+    "name": "History Vector",
+    "prompt": "historical vector art {prompt} . historical events, famous figures, bygone eras, historical culture",
+    "negative_prompt": "historical inaccuracies, revisionism, distorted history, misinformation"
+  },
+  {
+    "name": "Technology Vector",
+    "prompt": "technology-themed vector illustration {prompt} . innovation, tech culture, gadgets, futuristic technology",
+    "negative_prompt": "technological setbacks, outdated tech, tech failures"
+  },
+  {
+    "name": "Education Vector",
+    "prompt": "education-themed vector artwork {prompt} . learning, knowledge, educational culture, academic excellence",
+    "negative_prompt": "anti-education, ignorance, misinformation, academic negligence"
+  },
+  {
+    "name": "Health Vector",
+    "prompt": "health and wellness vector design {prompt} . well-being, fitness culture, healthy living, holistic health",
+    "negative_prompt": "unhealthy lifestyle, neglecting well-being, health risks"
+  },
+  {
+    "name": "Science Vector",
+    "prompt": "science-themed vector art {prompt} . scientific discovery, research culture, laboratory experiments, scientific innovation",
+    "negative_prompt": "anti-science, pseudoscience, scientific fraud, scientific stagnation"
+  },
+  {
+    "name": "Politics Vector",
+    "prompt": "politics-inspired vector illustration {prompt} . political movements, government, democracy, political activism",
+    "negative_prompt": "apolitical, political apathy, indifference, political ignorance"
+  },
+  {
+    "name": "Space Exploration Vector",
+    "prompt": "space exploration vector art {prompt} . NASA, space missions, astronauts, cosmic exploration, space technology",
+    "negative_prompt": "space isolation, space disasters, space failures, abandoned missions"
+  },
+  {
+    "name": "Architecture Vector",
+    "prompt": "architecture-inspired vector design {prompt} . architectural marvels, buildings, urban planning, architectural culture",
+    "negative_prompt": "architectural disasters, architectural failures, design flaws"
+  },
+  {
+    "name": "Mythology Vector",
+    "prompt": "mythology-themed vector artwork {prompt} . gods and goddesses, legends, folklore, mythological creatures",
+    "negative_prompt": "mythological inaccuracies, misrepresentation of myths, disrespect to cultures"
+  },
+  {
+    "name": "Space Fantasy Vector",
+    "prompt": "space fantasy vector illustration {prompt} . cosmic realms, space wizards, intergalactic adventures, epic space fantasy",
+    "negative_prompt": "non-fantastical space, mundane galaxies, unimpressive space journeys"
+  },
+  {
+    "name": "Sci-Fi Robot Vector",
+    "prompt": "sci-fi robot vector art {prompt} . futuristic robots, androids, AI, robotic culture, cybernetics",
+    "negative_prompt": "non-futuristic robots, obsolete AI, uninspiring automatons"
+  },
+  {
+    "name": "Cybersecurity Vector",
+    "prompt": "cybersecurity vector design {prompt} . digital security, cyber threats, hacking prevention, data protection",
+    "negative_prompt": "cybersecurity breaches, security failures, data leaks"
+  },
+  {
+    "name": "Climate Change Vector",
+    "prompt": "climate change vector art {prompt} . environmental crisis, climate action, global warming, eco-awareness",
+    "negative_prompt": "climate denial, environmental destruction, climate indifference"
+  },
+  {
+    "name": "Space Aliens Vector",
+    "prompt": "space aliens vector illustration {prompt} . extraterrestrial life, alien encounters, cosmic beings, alien civilizations",
+    "negative_prompt": "non-alien worlds, terrestrial life, uneventful alien interactions"
+  },
+  {
+    "name": "Psychology Vector",
+    "prompt": "psychology-themed vector artwork {prompt} . human mind, psychological insights, therapy, mental health",
+    "negative_prompt": "psychological stigma, mental health neglect, ignorance of human psyche"
+  },
+  {
+    "name": "Fantasy Landscapes Vector",
+    "prompt": "fantasy landscapes vector design {prompt} . mythical lands, enchanted forests, fantasy realms, epic landscapes",
+    "negative_prompt": "mundane landscapes, ordinary forests, unimpressive terrains"
+  },
+  {
+    "name": "Travel Destinations Vector",
+    "prompt": "travel destinations vector art {prompt} . iconic landmarks, world travel, tourist attractions, travel culture",
+    "negative_prompt": "obscure destinations, unremarkable landmarks, uneventful trips"
+  },
+  {
+    "name": "Botanical Vector",
+    "prompt": "botanical-inspired vector illustration {prompt} . flowers, plants, botanical beauty, horticultural culture",
+    "negative_prompt": "botanical neglect, plant destruction, environmental damage"
+  },
+  {
+    "name": "Cybernetic Animals Vector",
+    "prompt": "cybernetic animals vector art {prompt} . robotic wildlife, technologically enhanced animals, cyber creatures",
+    "negative_prompt": "non-cybernetic animals, natural wildlife, uninspiring fauna"
+  },
+  {
+    "name": "Utopian Vector",
+    "prompt": "utopian vector design {prompt} . ideal society, utopian dreams, perfect world, harmony, peace",
+    "negative_prompt": "dystopian realities, imperfect worlds, societal discord"
+  },
+  {
+    "name": "Holographic Vector",
+    "prompt": "holographic vector artwork {prompt} . holograms, 3D projections, holographic technology, futuristic holography",
+    "negative_prompt": "non-holographic imagery, 2D illusions, uninspiring projections"
+  },
+  {
+    "name": "Time Travel Vector",
+    "prompt": "time travel vector art {prompt} . time machines, temporal paradoxes, historical journeys, time-traveling culture",
+    "negative_prompt": "time stagnation, uneventful history, time travel mishaps"
+  },
+  {
+    "name": "Mythical Beasts Vector",
+    "prompt": "mythical beasts vector illustration {prompt} . legendary creatures, cryptids, mythical monsters, folklore",
+    "negative_prompt": "non-mythical animals, ordinary beasts, uninspiring creatures"
+  },
+  {
+    "name": "Virtual Reality Vector",
+    "prompt": "virtual reality vector design {prompt} . VR technology, immersive experiences, virtual worlds, cybernetic reality",
+    "negative_prompt": "non-virtual experiences, ordinary reality, uninspiring simulations"
+  },
+  {
+    "name": "Fairy Tale Vector",
+    "prompt": "fairy tale vector art {prompt} . fairy tales, folklore, magical stories, enchanting narratives, fairy tale culture",
+    "negative_prompt": "non-fairy tales, mundane stories, uninspiring plots"
+  },
+  {
+    "name": "Space Battles Vector",
+    "prompt": "space battles vector artwork {prompt} . epic space battles, intergalactic conflicts, cosmic warfare, space war culture",
+    "negative_prompt": "peaceful space, non-battle scenes, uneventful space conflicts"
+  },
+  {
+    "name": "Superhero Vector",
+    "prompt": "superhero vector illustration {prompt} . superheroes, superpowers, comic book heroes, heroic culture",
+    "negative_prompt": "non-heroic themes, ordinary individuals, uninspiring characters"
+  },
+  {
+    "name": "Underwater World Vector",
+    "prompt": "underwater world vector design {prompt} . oceanic wonders, marine life, underwater exploration, aquatic culture",
+    "negative_prompt": "non-aquatic scenes, land-based settings, uninspiring underwater scenes"
+  },
+  {
+    "name": "Mythical Realms Vector",
+    "prompt": "mythical realms vector art {prompt} . otherworldly dimensions, mystical landscapes, enchanted realms, mythical culture",
+    "negative_prompt": "non-mythical dimensions, ordinary landscapes, uninspiring realms"
+  },
+  {
+    "name": "Time-Lapse Vector",
+    "prompt": "time-lapse vector artwork {prompt} . time-lapse photography, temporal acceleration, changing landscapes, time-lapse culture",
+    "negative_prompt": "real-time scenes, static images, uneventful timelines"
+  },
+  {
+    "name": "Futuristic City Vector",
+    "prompt": "futuristic city vector illustration {prompt} . futuristic metropolis, cyberpunk cityscapes, urban development, city culture",
+    "negative_prompt": "non-futuristic cities, historical towns, uninspiring urban settings"
+  },
+  {
+    "name": "Virtual Worlds Vector",
+    "prompt": "virtual worlds vector design {prompt} . digital realms, virtual universes, cyberspace, virtual reality culture",
+    "negative_prompt": "non-virtual worlds, real-life settings, uninspiring virtual environments"
+  },
+  {
+    "name": "Medieval Fantasy Vector",
+    "prompt": "medieval fantasy vector art {prompt} . knights, castles, mythical creatures, medieval culture, fantasy kingdoms",
+    "negative_prompt": "non-medieval themes, contemporary settings, uninspiring historical scenes"
+  },
+  {
+    "name": "Artificial Intelligence Vector",
+    "prompt": "artificial intelligence vector artwork {prompt} . AI technology, machine learning, digital minds, AI culture",
+    "negative_prompt": "non-AI topics, human intelligence, uninspiring digital concepts"
+  },
+  {
+    "name": "Ancient Civilizations Vector",
+    "prompt": "ancient civilizations vector illustration {prompt} . ancient history, archaeological wonders, lost civilizations, historical culture",
+    "negative_prompt": "non-ancient times, modern history, uninspiring historical periods"
+  },
+  {
+    "name": "Time Travel Adventures Vector",
+    "prompt": "time travel adventures vector design {prompt} . time-traveling escapades, historical journeys, temporal adventures",
+    "negative_prompt": "time stagnation, uneventful history, time travel mishaps"
+  },
+  {
+    "name": "Urban Jungle Vector",
+    "prompt": "urban jungle vector art {prompt} . city wildlife, concrete jungles, urban wildlife, urban culture",
+    "negative_prompt": "non-urban settings, rural landscapes, uninspiring urban scenes"
+  },
+  {
+    "name": "Mythical Heroes Vector",
+    "prompt": "mythical heroes vector artwork {prompt} . legendary heroes, heroic tales, mythical champions, folklore",
+    "negative_prompt": "non-mythical heroes, ordinary individuals, uninspiring characters"
+  },
+  {
+    "name": "Steampunk Adventures Vector",
+    "prompt": "steampunk adventures vector illustration {prompt} . Victorian era, steam-powered adventures, retro-futuristic escapades",
+    "negative_prompt": "modern technology, futuristic settings, high-tech journeys"
+  },
+  {
+    "name": "Digital Transformation Vector",
+    "prompt": "digital transformation vector design {prompt} . digital revolution, technological progress, digital evolution",
+    "negative_prompt": "technological stagnation, digital regression, outdated technology"
+  },
+  {
+    "name": "Environmental Conservation Vector",
+    "prompt": "environmental conservation vector art {prompt} . eco-friendly initiatives, nature preservation, environmental awareness",
+    "negative_prompt": "environmental degradation, exploitation, environmental apathy"
+  },
+  {
+    "name": "Journey to the Stars Vector",
+    "prompt": "journey to the stars vector artwork {prompt} . interstellar voyages, cosmic exploration, celestial adventures",
+    "negative_prompt": "mundane space, uninspiring star journeys, uneventful cosmic travels"
+  },
+  {
+    "name": "Modern Architecture Vector",
+    "prompt": "modern architecture vector illustration {prompt} . contemporary buildings, architectural innovation, urban design",
+    "negative_prompt": "outdated architecture, architectural flaws, uninspiring cityscapes"
+  },
+  {
+    "name": "Ancient Myths Vector",
+    "prompt": "ancient myths vector design {prompt} . mythical tales, ancient legends, folklore, mythological culture",
+    "negative_prompt": "non-mythical stories, contemporary legends, uninspiring folklore"
+  },
+  {
+    "name": "AI-Powered Future Vector",
+    "prompt": "AI-powered future vector art {prompt} . AI-driven society, artificial intelligence, futuristic AI culture",
+    "negative_prompt": "non-AI future, human-centered future, uninspiring AI concepts"
+  },
+  {
+    "name": "Time Traveler's Journal Vector",
+    "prompt": "time traveler's journal vector artwork {prompt} . time-traveling adventures, historical insights, temporal journeys",
+    "negative_prompt": "time stagnation, uneventful history, time travel mishaps"
+  },
+  {
+    "name": "Jungle Exploration Vector",
+    "prompt": "jungle exploration vector illustration {prompt} . tropical jungles, exotic wildlife, adventure in the jungle",
+    "negative_prompt": "non-jungle settings, mundane forests, uninspiring jungle adventures"
+  },
+  {
+    "name": "Mythical Creatures Encyclopedia Vector",
+    "prompt": "mythical creatures encyclopedia vector design {prompt} . legendary beasts, mythical monsters, cryptozoology",
+    "negative_prompt": "non-mythical creatures, ordinary animals, uninspiring cryptids"
+  },
+  {
+    "name": "Virtual Reality Escapades Vector",
+    "prompt": "virtual reality escapades vector art {prompt} . VR adventures, immersive experiences, virtual world escapades",
+    "negative_prompt": "non-virtual escapades, real-world adventures, uninspiring VR experiences"
+  },
+  {
+    "name": "Fairy Tale Chronicles Vector",
+    "prompt": "fairy tale chronicles vector artwork {prompt} . fairy tales, legendary stories, magical chronicles",
+    "negative_prompt": "non-fairy tales, mundane stories, uninspiring chronicles"
+  },
+  {
+    "name": "Space Warfare Vector",
+    "prompt": "space warfare vector illustration {prompt} . epic space battles, interstellar conflicts, cosmic warfare",
+    "negative_prompt": "peaceful space, non-battle scenes, uneventful space conflicts"
+  },
+  {
+    "name": "Superhero Adventures Vector",
+    "prompt": "superhero adventures vector design {prompt} . superhero escapades, superpowers in action, heroic adventures",
+    "negative_prompt": "non-heroic adventures, ordinary individuals, uninspiring escapades"
+  },
+  {
+    "name": "Underwater Explorations Vector",
+    "prompt": "underwater explorations vector art {prompt} . marine discoveries, oceanic wonders, aquatic exploration",
+    "negative_prompt": "non-aquatic explorations, land-based discoveries, uninspiring underwater adventures"
+  },
+  {
+    "name": "Mythical Realms Chronicles Vector",
+    "prompt": "mythical realms chronicles vector artwork {prompt} . mythical dimensions, mystical stories, enchanted chronicles",
+    "negative_prompt": "non-mythical dimensions, ordinary tales, uninspiring chronicles"
+  },
+  {
+    "name": "Time-Lapse Adventures Vector",
+    "prompt": "time-lapse adventures vector design {prompt} . time-lapse experiences, temporal escapades, changing landscapes",
+    "negative_prompt": "real-time experiences, static scenes, uneventful timelines"
+  },
+  {
+    "name": "Futuristic City Chronicles Vector",
+    "prompt": "futuristic city chronicles vector illustration {prompt} . futuristic metropolises, cyberpunk urban tales",
+    "negative_prompt": "non-futuristic cities, historical towns, uninspiring urban chronicles"
+  },
+  {
+    "name": "Virtual Worlds Chronicles Vector",
+    "prompt": "virtual worlds chronicles vector art {prompt} . digital realms, virtual universe stories, cyberspace chronicles",
+    "negative_prompt": "non-virtual worlds, real-life stories, uninspiring virtual chronicles"
+  },
+  {
+    "name": "Medieval Fantasy Chronicles Vector",
+    "prompt": "medieval fantasy chronicles vector design {prompt} . medieval legends, mythical tales, fantasy chronicles",
+    "negative_prompt": "non-medieval tales, contemporary stories, uninspiring chronicles"
+  },
+  {
+    "name": "Artificial Intelligence Chronicles Vector",
+    "prompt": "artificial intelligence chronicles vector artwork {prompt} . AI stories, digital intelligence chronicles",
+    "negative_prompt": "non-AI stories, human-centered stories, uninspiring chronicles"
+  },
+  {
+    "name": "Ancient Civilizations Chronicles Vector",
+    "prompt": "ancient civilizations chronicles vector illustration {prompt} . ancient history tales, archaeological chronicles",
+    "negative_prompt": "non-ancient tales, modern history stories, uninspiring chronicles"
+  },
+  {
+    "name": "Time Traveler's Journal Chronicles Vector",
+    "prompt": "time traveler's journal chronicles vector art {prompt} . time-traveling stories, historical insights, temporal chronicles",
+    "negative_prompt": "time stagnation, uneventful history, uninspiring chronicles"
+  },
+  {
+    "name": "Jungle Exploration Chronicles Vector",
+    "prompt": "jungle exploration chronicles vector design {prompt} . tropical jungle tales, exotic adventures",
+    "negative_prompt": "non-jungle tales, mundane adventures, uninspiring chronicles"
+  },
+  {
+    "name": "Mythical Creatures Encyclopedia Chronicles Vector",
+    "prompt": "mythical creatures encyclopedia chronicles vector artwork {prompt} . legendary beast stories, mythical chronicles",
+    "negative_prompt": "non-mythical creature stories, ordinary chronicles, uninspiring tales"
+  },
+  {
+    "name": "Virtual Reality Escapades Chronicles Vector",
+    "prompt": "virtual reality escapades chronicles vector art {prompt} . VR adventure stories, immersive experiences",
+    "negative_prompt": "non-virtual adventure stories, real-world chronicles, uninspiring tales"
+  },
+  {
+    "name": "Fairy Tale Chronicles Chronicles Vector",
+    "prompt": "fairy tale chronicles chronicles vector illustration {prompt} . fairy tale stories, magical chronicles",
+    "negative_prompt": "non-fairy tale stories, mundane chronicles, uninspiring tales"
+  },
+  {
+    "name": "Space Warfare Chronicles Vector",
+    "prompt": "space warfare chronicles vector design {prompt} . space battle stories, cosmic conflicts",
+    "negative_prompt": "peaceful space stories, non-battle chronicles, uninspiring tales"
+  },
+  {
+    "name": "Superhero Adventures Chronicles Vector",
+    "prompt": "superhero adventures chronicles vector art {prompt} . superhero tales, superpowered chronicles",
+    "negative_prompt": "non-heroic chronicles, ordinary tales, uninspiring stories"
+  },
+  {
+    "name": "Underwater Explorations Chronicles Vector",
+    "prompt": "underwater explorations chronicles vector illustration {prompt} . marine discovery stories, oceanic chronicles",
+    "negative_prompt": "non-aquatic chronicles, land-based tales, uninspiring stories"
+  },
+  {
+    "name": "Mythical Realms Chronicles Chronicles Vector",
+    "prompt": "mythical realms chronicles chronicles vector design {prompt} . mythical dimension stories, enchanted chronicles",
+    "negative_prompt": "non-mythical dimension stories, ordinary chronicles, uninspiring tales"
+  },
+  {
+    "name": "Time-Lapse Adventures Chronicles Vector",
+    "prompt": "time-lapse adventures chronicles chronicles vector art {prompt} . time-lapse experiences stories, temporal chronicles",
+    "negative_prompt": "real-time experience stories, static chronicles, uninspiring tales"
+  },
+  {
+    "name": "Futuristic City Chronicles Chronicles Vector",
+    "prompt": "futuristic city chronicles chronicles vector illustration {prompt} . futuristic metropolis stories, cyberpunk urban tales",
+    "negative_prompt": "non-futuristic city stories, historical town chronicles, uninspiring tales"
+  },
+  {
+    "name": "Virtual Worlds Chronicles Chronicles Vector",
+    "prompt": "virtual worlds chronicles chronicles vector art {prompt} . digital realm stories, virtual universe chronicles",
+    "negative_prompt": "non-virtual world stories, real-life chronicles, uninspiring tales"
+  },
+  {
+    "name": "Medieval Fantasy Chronicles Chronicles Vector",
+    "prompt": "medieval fantasy chronicles chronicles vector design {prompt} . medieval legend stories, mythical tales",
+    "negative_prompt": "non-medieval legend stories, contemporary chronicles, uninspiring tales"
+  },
+  {
+    "name": "Artificial Intelligence Chronicles Chronicles Vector",
+    "prompt": "artificial intelligence chronicles chronicles vector artwork {prompt} . AI stories, digital intelligence chronicles",
+    "negative_prompt": "non-AI stories, human-centered chronicles, uninspiring tales"
+  },
+  {
+    "name": "Ancient Civilizations Chronicles Chronicles Vector",
+    "prompt": "ancient civilizations chronicles chronicles vector illustration {prompt} . ancient history tales, archaeological chronicles",
+    "negative_prompt": "non-ancient history stories, modern history chronicles, uninspiring tales"
+  },
+  {
+    "name": "Time Traveler's Journal Chronicles Chronicles Vector",
+    "prompt": "time traveler's journal chronicles chronicles vector art {prompt} . time-traveling stories, historical insights",
+    "negative_prompt": "time stagnation, uneventful history, uninspiring tales"
+  },
+  {
+    "name": "Jungle Exploration Chronicles Chronicles Vector",
+    "prompt": "jungle exploration chronicles chronicles vector design {prompt} . tropical jungle tales, exotic adventures",
+    "negative_prompt": "non-jungle tales, mundane adventures, uninspiring tales"
+  },
+  {
+    "name": "Mythical Creatures Encyclopedia Chronicles Chronicles Vector",
+    "prompt": "mythical creatures encyclopedia chronicles chronicles vector artwork {prompt} . legendary beast stories, mythical chronicles",
+    "negative_prompt": "non-mythical creature stories, ordinary chronicles, uninspiring tales"
+  },
+  {
+    "name": "Virtual Reality Escapades Chronicles Chronicles Vector",
+    "prompt": "virtual reality escapades chronicles chronicles vector art {prompt} . VR adventure stories, immersive experiences",
+    "negative_prompt": "non-virtual adventure stories, real-world chronicles, uninspiring tales"
+  },
+  {
+    "name": "Fairy Tale Chronicles Chronicles Chronicles Vector",
+    "prompt": "fairy tale chronicles chronicles chronicles vector illustration {prompt} . fairy tale stories, magical chronicles",
+    "negative_prompt": "non-fairy tale stories, mundane chronicles, uninspiring tales"
+  },
+  {
+    "name": "Space Warfare Chronicles Chronicles Vector",
+    "prompt": "space warfare chronicles chronicles chronicles vector design {prompt} . space battle stories, cosmic conflicts",
+    "negative_prompt": "peaceful space stories, non-battle chronicles, uninspiring tales"
+  },
+  {
+    "name": "Superhero Adventures Chronicles Chronicles Vector",
+    "prompt": "superhero adventures chronicles chronicles chronicles vector art {prompt} . superhero tales, superpowered chronicles",
+    "negative_prompt": "non-heroic chronicles, ordinary tales, uninspiring stories"
+  },
+  {
+    "name": "Underwater Explorations Chronicles Chronicles Vector",
+    "prompt": "underwater explorations chronicles chronicles chronicles vector illustration {prompt} . marine discovery stories, oceanic chronicles",
+    "negative_prompt": "non-aquatic chronicles, land-based tales, uninspiring stories"
+  },
+  {
+    "name": "Mythical Realms Chronicles Chronicles Chronicles Vector",
+    "prompt": "mythical realms chronicles chronicles chronicles vector design {prompt} . mythical dimension stories, enchanted chronicles",
+    "negative_prompt": "non-mythical dimension stories, ordinary chronicles, uninspiring stories"
+  },
+  {
+    "name": "Time-Lapse Adventures Chronicles Chronicles Chronicles Vector",
+    "prompt": "time-lapse adventures chronicles chronicles chronicles vector art {prompt} . time-lapse experiences stories, temporal chronicles",
+    "negative_prompt": "real-time experience stories, static chronicles, uninspiring stories"
+  },
+  {
+    "name": "Futuristic City Chronicles Chronicles Chronicles Vector",
+    "prompt": "futuristic city chronicles chronicles chronicles vector illustration {prompt} . futuristic metropolis stories, cyberpunk urban tales",
+    "negative_prompt": "non-futuristic city stories, historical town chronicles, uninspiring stories"
+  },
+  {
+    "name": "Virtual Worlds Chronicles Chronicles Chronicles Vector",
+    "prompt": "virtual worlds chronicles chronicles chronicles vector art {prompt} . digital realm stories, virtual universe chronicles",
+    "negative_prompt": "non-virtual world stories, real-life chronicles, uninspiring stories"
+  },
+  {
+    "name": "Medieval Fantasy Chronicles Chronicles Chronicles Vector",
+    "prompt": "medieval fantasy chronicles chronicles chronicles vector design {prompt} . medieval legend stories, mythical tales",
+    "negative_prompt": "non-medieval legend stories, contemporary chronicles, uninspiring stories"
+  },
+  {
+    "name": "Artificial Intelligence Chronicles Chronicles Chronicles Vector",
+    "prompt": "artificial intelligence chronicles chronicles chronicles vector artwork {prompt} . AI stories, digital intelligence chronicles",
+    "negative_prompt": "non-AI stories, human-centered chronicles, uninspiring stories"
+  },
+  {
+    "name": "Ancient Civilizations Chronicles Chronicles Chronicles Vector",
+    "prompt": "ancient civilizations chronicles chronicles chronicles vector illustration {prompt} . ancient history tales, archaeological chronicles",
+    "negative_prompt": "non-ancient history stories, modern history chronicles, uninspiring stories"
+  },
+  {
+    "name": "Time Traveler's Journal Chronicles Chronicles Chronicles Vector",
+    "prompt": "time traveler's journal chronicles chronicles chronicles vector art {prompt} . time-traveling stories, historical insights",
+    "negative_prompt": "time stagnation, uneventful history, uninspiring stories"
+  },
+  {
+    "name": "Jungle Exploration Chronicles Chronicles Chronicles Vector",
+    "prompt": "jungle exploration chronicles chronicles chronicles vector design {prompt} . tropical jungle tales, exotic adventures",
+    "negative_prompt": "non-jungle tales, mundane adventures, uninspiring stories"
+  },
+  {
+    "name": "Mythical Creatures Encyclopedia Chronicles Chronicles Chronicles Vector",
+    "prompt": "mythical creatures encyclopedia chronicles chronicles chronicles vector artwork {prompt} . legendary beast stories, mythical chronicles",
+    "negative_prompt": "non-mythical creature stories, ordinary chronicles, uninspiring stories"
+  },
+  {
+    "name": "Virtual Reality Escapades Chronicles Chronicles Chronicles Vector",
+    "prompt": "virtual reality escapades chronicles chronicles chronicles vector art {prompt} . VR adventure stories, immersive experiences",
+    "negative_prompt": "non-virtual adventure stories, real-world chronicles, uninspiring stories"
+  },
+  {
+    "name": "Fairy Tale Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "fairy tale chronicles chronicles chronicles chronicles vector illustration {prompt} . fairy tale stories, magical chronicles",
+    "negative_prompt": "non-fairy tale stories, mundane chronicles, uninspiring stories"
+  },
+  {
+    "name": "Space Warfare Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "space warfare chronicles chronicles chronicles chronicles vector design {prompt} . space battle stories, cosmic conflicts",
+    "negative_prompt": "peaceful space stories, non-battle chronicles, uninspiring stories"
+  },
+  {
+    "name": "Superhero Adventures Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "superhero adventures chronicles chronicles chronicles chronicles vector art {prompt} . superhero tales, superpowered chronicles",
+    "negative_prompt": "non-heroic chronicles, ordinary tales, uninspiring stories"
+  },
+  {
+    "name": "Underwater Explorations Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "underwater explorations chronicles chronicles chronicles chronicles vector illustration {prompt} . marine discovery stories, oceanic chronicles",
+    "negative_prompt": "non-aquatic chronicles, land-based tales, uninspiring stories"
+  },
+  {
+    "name": "Mythical Realms Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "mythical realms chronicles chronicles chronicles chronicles vector design {prompt} . mythical dimension stories, enchanted chronicles",
+    "negative_prompt": "non-mythical dimension stories, ordinary chronicles, uninspiring stories"
+  },
+  {
+    "name": "Time-Lapse Adventures Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "time-lapse adventures chronicles chronicles chronicles chronicles vector art {prompt} . time-lapse experiences stories, temporal chronicles",
+    "negative_prompt": "real-time experience stories, static chronicles, uninspiring stories"
+  },
+  {
+    "name": "Futuristic City Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "futuristic city chronicles chronicles chronicles chronicles vector illustration {prompt} . futuristic metropolis stories, cyberpunk urban tales",
+    "negative_prompt": "non-futuristic city stories, historical town chronicles, uninspiring stories"
+  },
+  {
+    "name": "Virtual Worlds Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "virtual worlds chronicles chronicles chronicles chronicles vector art {prompt} . digital realm stories, virtual universe chronicles",
+    "negative_prompt": "non-virtual world stories, real-life chronicles, uninspiring stories"
+  },
+  {
+    "name": "Medieval Fantasy Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "medieval fantasy chronicles chronicles chronicles chronicles vector design {prompt} . medieval legend stories, mythical tales",
+    "negative_prompt": "non-medieval legend stories, contemporary chronicles, uninspiring stories"
+  },
+  {
+    "name": "Artificial Intelligence Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "artificial intelligence chronicles chronicles chronicles chronicles vector artwork {prompt} . AI stories, digital intelligence chronicles",
+    "negative_prompt": "non-AI stories, human-centered chronicles, uninspiring stories"
+  },
+  {
+    "name": "Ancient Civilizations Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "ancient civilizations chronicles chronicles chronicles chronicles vector illustration {prompt} . ancient history tales, archaeological chronicles",
+    "negative_prompt": "non-ancient history stories, modern history chronicles, uninspiring stories"
+  },
+  {
+    "name": "Time Traveler's Journal Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "time traveler's journal chronicles chronicles chronicles chronicles vector art {prompt} . time-traveling stories, historical insights",
+    "negative_prompt": "time stagnation, uneventful history, uninspiring stories"
+  },
+  {
+    "name": "Jungle Exploration Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "jungle exploration chronicles chronicles chronicles chronicles vector design {prompt} . tropical jungle tales, exotic adventures",
+    "negative_prompt": "non-jungle tales, mundane adventures, uninspiring stories"
+  },
+  {
+    "name": "Mythical Creatures Encyclopedia Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "mythical creatures encyclopedia chronicles chronicles chronicles chronicles vector artwork {prompt} . legendary beast stories, mythical chronicles",
+    "negative_prompt": "non-mythical creature stories, ordinary chronicles, uninspiring stories"
+  },
+  {
+    "name": "Virtual Reality Escapades Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "virtual reality escapades chronicles chronicles chronicles chronicles vector art {prompt} . VR adventure stories, immersive experiences",
+    "negative_prompt": "non-virtual adventure stories, real-world chronicles, uninspiring stories"
+  },
+  {
+    "name": "Fairy Tale Chronicles Chronicles Chronicles Chronicles Chronicles Vector",
+    "prompt": "fairy tale chronicles chronicles chronicles chronicles chronicles vector illustration {prompt} . fairy tale stories, magical chronicles",
+    "negative_prompt": "non-fairy tale stories, mundane chronicles, uninspiring stories"
+  },
+  {
     "name": "3D Model",
     "prompt": "professional 3d model {prompt} . octane render, highly detailed, volumetric, dramatic lighting",
     "negative_prompt": "ugly, deformed, noisy, low poly, blurry, painting"
