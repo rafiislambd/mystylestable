@@ -690,6 +690,215 @@
     "name": "Chinese Countryside",
     "prompt": "Chinese countryside {prompt} . rolling hills, traditional villages, tranquil, traditional, rural",
     "negative_prompt": "polluted, crowded, noisy, modern"
+  },  {
+    "name": "Dress Traditional Hanfu",
+    "prompt": "Chinese traditional Hanfu dress design {prompt} . elegant, historical, intricate, silk, traditional, cultural",
+    "negative_prompt": "modern, plain, synthetic, tacky, uninspired"
+  },
+  {
+    "name": "Chinese Dress Zodiac Inspired",
+    "prompt": "Chinese zodiac-inspired anime dress design {prompt} . unique, vibrant, animal motifs, creative, detailed",
+    "negative_prompt": "generic, uninspired, poorly crafted, mismatched"
+  },
+  {
+    "name": "Dress Ancient Dynasty Robes",
+    "prompt": "Chinese ancient dynasty robes design {prompt} . regal, silk, ornate, traditional, historical",
+    "negative_prompt": "frayed, plain, inaccurate, dull"
+  },
+  {
+    "name": "Chinese Dress Mythology Heroes",
+    "prompt": "Chinese mythology heroes-inspired dress design {prompt} . heroic, mythical, epic, detailed, legendary",
+    "negative_prompt": "forgettable, unimpressive, poorly designed, inaccurate"
+  },
+  {
+    "name": "Dress Taoist Priest Robes",
+    "prompt": "Taoist priest robes-inspired anime dress design {prompt} . mystical, spiritual, symbolic, traditional, detailed",
+    "negative_prompt": "mundane, uninspired, inaccurately designed, generic"
+  },
+  {
+    "name": "Chinese Dress Floral Cheongsam",
+    "prompt": "Chinese floral cheongsam dress design {prompt} . elegant, floral patterns, silk, traditional, feminine",
+    "negative_prompt": "bland, poorly tailored, unattractive, outdated"
+  },
+  {
+    "name": "Chinese Dress Martial Arts Attire",
+    "prompt": "Chinese martial arts attire-inspired dress design {prompt} . dynamic, powerful, traditional, detailed",
+    "negative_prompt": "clumsy, uninspired, impractical, uncomfortable"
+  },
+  {
+    "name": "Dress Imperial Empress Gown",
+    "prompt": "Chinese imperial empress gown dress design {prompt} . majestic, gold accents, regal, traditional, historical",
+    "negative_prompt": "tacky, plain, inaccurate, poorly made"
+  },
+  {
+    "name": "Dress Terracotta Warrior Armor",
+    "prompt": "Terracotta warrior armor-inspired dress design {prompt} . formidable, ancient, detailed, historical",
+    "negative_prompt": "unconvincing, uninspired, inaccurately designed, uncomfortable"
+  },
+  {
+    "name": "Chinese Dress Tea Ceremony Attire",
+    "prompt": "Chinese tea ceremony attire-inspired dress design {prompt} . tranquil, graceful, traditional, detailed",
+    "negative_prompt": "clumsy, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Chinese Dress Opera Costumes",
+    "prompt": "Chinese opera costumes-inspired anime dress design {prompt} . colorful, theatrical, traditional, detailed",
+    "negative_prompt": "dull, uninspired, inaccurately designed, uncomfortable"
+  },
+  {
+    "name": "Chinese Dress Garden Elegance",
+    "prompt": "Chinese garden elegance-inspired dress design {prompt} . serene, floral motifs, traditional, detailed",
+    "negative_prompt": "clumsy, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Dress Journey to the West Inspired",
+    "prompt": "Journey to the West-inspired dress design {prompt} . mythical, adventurous, epic, detailed",
+    "negative_prompt": "forgettable, unimpressive, poorly designed, inaccurate"
+  },
+  {
+    "name": "Chinese Dress Dragon Robes",
+    "prompt": "Chinese dragon robes-inspired dress design {prompt} . powerful, dragon motifs, silk, traditional, detailed",
+    "negative_prompt": "bland, uninspired, inaccurately designed, uncomfortable"
+  },
+  {
+    "name": "Modern Dress Chinese Streetwear",
+    "prompt": "Modern Chinese streetwear-inspired dress design {prompt} . trendy, urban, creative, detailed",
+    "negative_prompt": "outdated, uninspired, poorly tailored, unattractive"
+  },
+  {
+    "name": "Chinese Dress Lantern Festival Attire",
+    "prompt": "Chinese lantern festival attire-inspired dress design {prompt} . vibrant, lantern motifs, traditional, detailed",
+    "negative_prompt": "clumsy, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Chinese Dress Bamboo Forest Outfit",
+    "prompt": "Chinese bamboo forest outfit-inspired dress design {prompt} . tranquil, bamboo motifs, traditional, detailed",
+    "negative_prompt": "bland, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Chinese Dress New Year Glamour",
+    "prompt": "Chinese New Year glamour-inspired dress design {prompt} . festive, red and gold, traditional, detailed",
+    "negative_prompt": "dull, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Chinese Dress Opera Masks Couture",
+    "prompt": "Chinese opera masks couture-inspired dress design {prompt} . theatrical, mask motifs, traditional, detailed",
+    "negative_prompt": "clumsy, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Chinese Dress Silk Road Robes",
+    "prompt": "Chinese Silk Road robes-inspired dress design {prompt} . exotic, intricate patterns, silk, traditional, detailed",
+    "negative_prompt": "plain, uninspired, inaccurately designed, uncomfortable"
+  },
+  {
+    "name": "Chinese Dress Peony Blossom Dress",
+    "prompt": "Chinese peony blossom dress design {prompt} . elegant, peony motifs, silk, traditional, feminine",
+    "negative_prompt": "bland, poorly tailored, unattractive, outdated"
+  },
+  {
+    "name": "Chinese Dress Kung Fu Uniform",
+    "prompt": "Chinese Kung Fu uniform-inspired dress design {prompt} . dynamic, martial arts, traditional, detailed",
+    "negative_prompt": "clumsy, uninspired, impractical, uncomfortable"
+  },
+  {
+    "name": "Chinese Dress Red Lantern Elegance",
+    "prompt": "Chinese red lantern elegance-inspired dress design {prompt} . festive, lantern motifs, traditional, detailed",
+    "negative_prompt": "dull, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Chinese Dress Mythical Creatures",
+    "prompt": "Chinese mythical creatures-inspired dress design {prompt} . fantastical, magical, detailed, legendary",
+    "negative_prompt": "forgettable, unimpressive, poorly designed, inaccurate"
+  },
+  {
+    "name": "Chinese Dress Watercolor Blossoms",
+    "prompt": "Chinese watercolor blossoms dress design {prompt} . delicate, watercolor patterns, traditional, detailed",
+    "negative_prompt": "clumsy, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Chinese Dress Calligraphy Couture",
+    "prompt": "Chinese calligraphy couture-inspired dress design {prompt} . artistic, calligraphy motifs, traditional, detailed",
+    "negative_prompt": "bland, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Chinese Dress Palace Attire",
+    "prompt": "Chinese palace attire-inspired dress design {prompt} . opulent, luxurious, traditional, detailed",
+    "negative_prompt": "plain, uninspired, inaccurately designed, uncomfortable"
+  },
+  {
+    "name": "Chinese Dress Dragon Dance Outfit",
+    "prompt": "Chinese dragon dance outfit-inspired dress design {prompt} . festive, dragon dance, traditional, detailed",
+    "negative_prompt": "clumsy, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Chinese Dress Lunar Eclipse Gown",
+    "prompt": "Chinese lunar eclipse gown dress design {prompt} . mysterious, lunar motifs, traditional, detailed",
+    "negative_prompt": "bland, poorly tailored, unattractive, outdated"
+  },
+  {
+    "name": "Chinese Dress Tea Garden Attire",
+    "prompt": "Chinese tea garden attire-inspired dress design {prompt} . tranquil, tea leaves, traditional, detailed",
+    "negative_prompt": "clumsy, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Chinese Dress Opera Masks Couture",
+    "prompt": "Chinese opera masks couture-inspired dress design {prompt} . theatrical, mask motifs, traditional, detailed",
+    "negative_prompt": "clumsy, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Chinese Dress Silk Road Robes",
+    "prompt": "Chinese Silk Road robes-inspired dress design {prompt} . exotic, intricate patterns, silk, traditional, detailed",
+    "negative_prompt": "plain, uninspired, inaccurately designed, uncomfortable"
+  },
+  {
+    "name": "Chinese Dress Peony Blossom Dress",
+    "prompt": "Chinese peony blossom dress design {prompt} . elegant, peony motifs, silk, traditional, feminine",
+    "negative_prompt": "bland, poorly tailored, unattractive, outdated"
+  },
+  {
+    "name": "Chinese Dress Kung Fu Uniform",
+    "prompt": "Chinese Kung Fu uniform-inspired dress design {prompt} . dynamic, martial arts, traditional, detailed",
+    "negative_prompt": "clumsy, uninspired, impractical, uncomfortable"
+  },
+  {
+    "name": "Chinese Dress Red Lantern Elegance",
+    "prompt": "Chinese red lantern elegance-inspired dress design {prompt} . festive, lantern motifs, traditional, detailed",
+    "negative_prompt": "dull, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Chinese Dress Mythical Creatures",
+    "prompt": "Chinese mythical creatures-inspired dress design {prompt} . fantastical, magical, detailed, legendary",
+    "negative_prompt": "forgettable, unimpressive, poorly designed, inaccurate"
+  },
+  {
+    "name": "Chinese Dress Watercolor Blossoms",
+    "prompt": "Chinese watercolor blossoms dress design {prompt} . delicate, watercolor patterns, traditional, detailed",
+    "negative_prompt": "clumsy, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Chinese Calligraphy Couture",
+    "prompt": "Chinese calligraphy couture-inspired dress design {prompt} . artistic, calligraphy motifs, traditional, detailed",
+    "negative_prompt": "bland, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Chinese Dress Palace Attire",
+    "prompt": "Chinese palace attire-inspired dress design {prompt} . opulent, luxurious, traditional, detailed",
+    "negative_prompt": "plain, uninspired, inaccurately designed, uncomfortable"
+  },
+  {
+    "name": "Chinese Dress Dragon Dance Outfit",
+    "prompt": "Chinese dragon dance outfit-inspired dress design {prompt} . festive, dragon dance, traditional, detailed",
+    "negative_prompt": "clumsy, uninspired, impractical, unattractive"
+  },
+  {
+    "name": "Chinese Dress Lunar Eclipse Gown",
+    "prompt": "Chinese lunar eclipse gown dress design {prompt} . mysterious, lunar motifs, traditional, detailed",
+    "negative_prompt": "bland, poorly tailored, unattractive, outdated"
+  },
+  {
+    "name": "Chinese Dress Tea Garden Attire",
+    "prompt": "Chinese tea garden attire-inspired dress design {prompt} . tranquil, tea leaves, traditional, detailed",
+    "negative_prompt": "clumsy, uninspired, impractical, unattractive"
   },
   {
     "name": "Sci-Fi Vector",
