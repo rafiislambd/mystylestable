@@ -197,6 +197,499 @@
     "name": "Vector Style 31",
     "prompt": "vector sports {prompt} . athletic, competitive, energetic",
     "negative_prompt": "sedentary, lazy, lethargic"
+  },  {
+    "name": "Chinese Calligraphy",
+    "prompt": "traditional Chinese calligraphy {prompt} . brush strokes, ink, scroll, masterful, elegant, characters, script, scroll, poetic, graceful",
+    "negative_prompt": "digital, graffiti, messy, illegible, scribbles, chaotic"
+  },
+  {
+    "name": "Chinese Landscape Painting",
+    "prompt": "classic Chinese landscape painting {prompt} . mountains, rivers, ink wash, serene, misty, traditional, nature, poetic",
+    "negative_prompt": "abstract, urban, chaotic, crowded, industrial, dystopian"
+  },
+  {
+    "name": "Chinese Watercolor",
+    "prompt": "Chinese watercolor painting {prompt} . delicate, colorful, ink, paper, traditional, peaceful, brushwork, nature",
+    "negative_prompt": "pixel art, digital, neon, chaotic, abstract, distorted"
+  },
+  {
+    "name": "Chinese Silk Embroidery",
+    "prompt": "Chinese silk embroidery {prompt} . intricate, colorful threads, texture, fabric, traditional, craftsmanship, detailed",
+    "negative_prompt": "crude, pixelated, messy, torn, discolored"
+  },
+  {
+    "name": "Chinese Woodblock Prints",
+    "prompt": "Chinese woodblock prints {prompt} . intricate patterns, wood grain, traditional, cultural, storytelling, detailed",
+    "negative_prompt": "abstract, chaotic, blurry, unrecognizable"
+  },
+  {
+    "name": "Chinese Porcelain Painting",
+    "prompt": "Chinese porcelain painting {prompt} . delicate, fine china, vibrant colors, traditional, ceramics, detailed",
+    "negative_prompt": "sloppy, faded, distorted, smudged"
+  },
+  {
+    "name": "Chinese Paper Cutting",
+    "prompt": "Chinese paper cutting {prompt} . intricate designs, red paper, traditional, scissors, craftsmanship, detailed",
+    "negative_prompt": "crumpled, torn, uneven, jagged"
+  },
+  {
+    "name": "Chinese Brush Painting",
+    "prompt": "traditional Chinese brush painting {prompt} . ink, bamboo, animals, traditional, brushwork, delicate, poetic",
+    "negative_prompt": "digital, graffiti, chaotic, abstract, messy"
+  },
+  {
+    "name": "Chinese Pottery",
+    "prompt": "Chinese pottery {prompt} . clay, glaze, ceramics, traditional, kiln, craftsmanship, intricate",
+    "negative_prompt": "cracked, uneven, broken, misshapen"
+  },
+  {
+    "name": "Chinese Sculpture",
+    "prompt": "Chinese sculpture {prompt} . clay, stone, bronze, traditional, three-dimensional, detailed",
+    "negative_prompt": "shapeless, incomplete, rough, amateurish"
+  },
+  {
+    "name": "Chinese Wood Carving",
+    "prompt": "Chinese wood carving {prompt} . intricate patterns, wood grain, traditional, craftsmanship, detailed",
+    "negative_prompt": "splintered, uneven, crude, distorted"
+  },
+  {
+    "name": "Chinese Opera Masks",
+    "prompt": "Chinese opera masks {prompt} . colorful, traditional, facial expressions, intricate, symbolism",
+    "negative_prompt": "plain, featureless, unrecognizable"
+  },
+  {
+    "name": "Chinese Fan Painting",
+    "prompt": "Chinese fan painting {prompt} . delicate, bamboo, traditional, paper, detailed, craftsmanship",
+    "negative_prompt": "crumpled, torn, sloppy, faded"
+  },
+  {
+    "name": "Chinese Batik",
+    "prompt": "Chinese batik {prompt} . wax resist, vibrant colors, fabric, traditional, detailed",
+    "negative_prompt": "smudged, faded, uneven, distorted"
+  },
+  {
+    "name": "Chinese Ink Wash",
+    "prompt": "Chinese ink wash painting {prompt} . monochromatic, mountains, waterfalls, traditional, serene, ink",
+    "negative_prompt": "colorful, chaotic, abstract, unrecognizable"
+  },
+  {
+    "name": "Chinese Oil Painting",
+    "prompt": "Chinese oil painting {prompt} . canvas, oil colors, traditional, realistic, detailed",
+    "negative_prompt": "smudged, messy, distorted, abstract"
+  },
+  {
+    "name": "Chinese Mural Art",
+    "prompt": "Chinese mural art {prompt} . walls, ancient, traditional, storytelling, detailed",
+    "negative_prompt": "peeling, faded, incomplete, unrecognizable"
+  },
+  {
+    "name": "Chinese Jade Carving",
+    "prompt": "Chinese jade carving {prompt} . precious stone, intricate designs, traditional, craftsmanship",
+    "negative_prompt": "cracked, rough, misshapen, amateurish"
+  },
+  {
+    "name": "Chinese Lacquerware",
+    "prompt": "Chinese lacquerware {prompt} . glossy, intricate designs, traditional, craftsmanship",
+    "negative_prompt": "dull, chipped, uneven, cracked"
+  },
+  {
+    "name": "Chinese Knotting",
+    "prompt": "Chinese knotting {prompt} . intricate, red cord, traditional, symbolism, craftsmanship",
+    "negative_prompt": "tangled, messy, unrecognizable, amateurish"
+  },
+  {
+    "name": "Chinese Bamboo Art",
+    "prompt": "Chinese bamboo art {prompt} . delicate, bamboo, traditional, detailed, craftsmanship",
+    "negative_prompt": "broken, misshapen, rough, amateurish"
+  },
+  {
+    "name": "Chinese Silk Painting",
+    "prompt": "Chinese silk painting {prompt} . delicate, silk fabric, vibrant colors, traditional, detailed",
+    "negative_prompt": "stained, faded, uneven, distorted"
+  },
+  {
+    "name": "Chinese Jade Jewelry",
+    "prompt": "Chinese jade jewelry {prompt} . precious stones, intricate designs, traditional, craftsmanship",
+    "negative_prompt": "plain, cheap, uneven, dull"
+  },
+  {
+    "name": "Chinese Puppetry",
+    "prompt": "Chinese puppetry {prompt} . puppet characters, strings, traditional, storytelling, craftsmanship",
+    "negative_prompt": "lifeless, tangled, unrecognizable, amateurish"
+  },
+  {
+    "name": "Chinese Brush Pen Art",
+    "prompt": "Chinese brush pen art {prompt} . ink, brush strokes, traditional, detailed, craftsmanship",
+    "negative_prompt": "digital, graffiti, chaotic, abstract, messy"
+  },
+  {
+    "name": "Chinese Opera Costumes",
+    "prompt": "Chinese opera costumes {prompt} . colorful, intricate, traditional, theatrical, detailed",
+    "negative_prompt": "plain, dull, unrecognizable, amateurish"
+  },
+  {
+    "name": "Chinese Stone Sculpture",
+    "prompt": "Chinese stone sculpture {prompt} . stone, traditional, three-dimensional, detailed, craftsmanship",
+    "negative_prompt": "shapeless, incomplete, rough, amateurish"
+  },
+  {
+    "name": "Chinese Embroidered Silk",
+    "prompt": "Chinese embroidered silk {prompt} . delicate, colorful threads, fabric, traditional, detailed",
+    "negative_prompt": "crumpled, torn, uneven, jagged"
+  },
+  {
+    "name": "Chinese Miniature Painting",
+    "prompt": "Chinese miniature painting {prompt} . tiny canvas, intricate, traditional, detailed, craftsmanship",
+    "negative_prompt": "sloppy, blurry, unrecognizable, amateurish"
+  },
+  {
+    "name": "Chinese Woodblock Painting",
+    "prompt": "Chinese woodblock painting {prompt} . intricate patterns, wood grain, traditional, detailed, craftsmanship",
+    "negative_prompt": "smeared, chaotic, unrecognizable, amateurish"
+  },
+  {
+    "name": "Chinese Silk Tapestry",
+    "prompt": "Chinese silk tapestry {prompt} . intricate, vibrant colors, fabric, traditional, detailed",
+    "negative_prompt": "tangled, faded, uneven, distorted"
+  },
+  {
+    "name": "Chinese Shadow Puppetry",
+    "prompt": "Chinese shadow puppetry {prompt} . shadow play, intricate puppets, traditional, storytelling, craftsmanship",
+    "negative_prompt": "lifeless, tangled, unrecognizable, amateurish"
+  },
+  {
+    "name": "Chinese Metalwork Art",
+    "prompt": "Chinese metalwork art {prompt} . metal, intricate designs, traditional, detailed, craftsmanship",
+    "negative_prompt": "plain, dull, unrecognizable, amateurish"
+  },
+  {
+    "name": "Chinese Fan Dance",
+    "prompt": "Chinese fan dance {prompt} . fans, traditional, dance, graceful, detailed",
+    "negative_prompt": "awkward, clumsy, uncoordinated, amateurish"
+  },
+  {
+    "name": "Chinese Scroll Painting",
+    "prompt": "Chinese scroll painting {prompt} . long scrolls, ink, traditional, storytelling, detailed",
+    "negative_prompt": "sloppy, faded, incomplete, unrecognizable"
+  },
+  {
+    "name": "Chinese Stone Carving",
+    "prompt": "Chinese stone carving {prompt} . stone, traditional, three-dimensional, detailed, craftsmanship",
+    "negative_prompt": "shapeless, rough, incomplete, amateurish"
+  },
+  {
+    "name": "Chinese Beadwork",
+    "prompt": "Chinese beadwork {prompt} . beads, intricate designs, traditional, detailed, craftsmanship",
+    "negative_prompt": "plain, uneven, dull, amateurish"
+  },
+  {
+    "name": "Chinese Theater Masks",
+    "prompt": "Chinese theater masks {prompt} . colorful, intricate, traditional, theatrical, detailed",
+    "negative_prompt": "plain, dull, unrecognizable, amateurish"
+  },
+  {
+    "name": "Chinese Terracotta Sculpture",
+    "prompt": "Chinese terracotta sculpture {prompt} . clay, traditional, three-dimensional, detailed, craftsmanship",
+    "negative_prompt": "shapeless, rough, incomplete, amateurish"
+  },
+  {
+    "name": "Chinese Knot Art",
+    "prompt": "Chinese knot art {prompt} . intricate, red cord, traditional, symbolic, detailed, craftsmanship",
+    "negative_prompt": "tangled, messy, unrecognizable, amateurish"
+  },
+  {
+    "name": "Chinese Bamboo Furniture",
+    "prompt": "Chinese bamboo furniture {prompt} . bamboo, traditional, functional, intricate, craftsmanship",
+    "negative_prompt": "fragile, wobbly, unsteady, amateurish"
+  },
+  {
+    "name": "Chinese Batik Fabric",
+    "prompt": "Chinese batik fabric {prompt} . wax resist, vibrant colors, fabric, traditional, detailed",
+    "negative_prompt": "smudged, faded, uneven, distorted"
+  },
+  {
+    "name": "Chinese Ink Brushwork",
+    "prompt": "Chinese ink brushwork {prompt} . ink, brush strokes, traditional, detailed, craftsmanship",
+    "negative_prompt": "digital, graffiti, chaotic, abstract, messy"
+  },
+  {
+    "name": "Chinese Opera Masks",
+    "prompt": "Chinese opera masks {prompt} . colorful, intricate, traditional, theatrical, detailed",
+    "negative_prompt": "plain, dull, unrecognizable, amateurish"
+  },
+  {
+    "name": "Chinese Stone Sculpture",
+    "prompt": "Chinese stone sculpture {prompt} . stone, traditional, three-dimensional, detailed, craftsmanship",
+    "negative_prompt": "shapeless, rough, incomplete, amateurish"
+  },
+  {
+    "name": "Chinese Embroidered Silk",
+    "prompt": "Chinese embroidered silk {prompt} . delicate, colorful threads, fabric, traditional, detailed",
+    "negative_prompt": "crumpled, torn, uneven, jagged"
+  },
+  {
+    "name": "Chinese Miniature Painting",
+    "prompt": "Chinese miniature painting {prompt} . tiny canvas, intricate, traditional, detailed, craftsmanship",
+    "negative_prompt": "sloppy, blurry, unrecognizable, amateurish"
+  },
+  {
+    "name": "Chinese Woodblock Painting",
+    "prompt": "Chinese woodblock painting {prompt} . intricate patterns, wood grain, traditional, detailed, craftsmanship",
+    "negative_prompt": "smeared, chaotic, unrecognizable, amateurish"
+  },
+  {
+    "name": "Chinese Silk Tapestry",
+    "prompt": "Chinese silk tapestry {prompt} . intricate, vibrant colors, fabric, traditional, detailed",
+    "negative_prompt": "tangled, faded, uneven, distorted"
+  },
+  {
+    "name": "Chinese Shadow Puppetry",
+    "prompt": "Chinese shadow puppetry {prompt} . shadow play, intricate puppets, traditional, storytelling, craftsmanship",
+    "negative_prompt": "lifeless, tangled, unrecognizable, amateurish"
+  },
+  {
+    "name": "Chinese Metalwork Art",
+    "prompt": "Chinese metalwork art {prompt} . metal, intricate designs, traditional, detailed, craftsmanship",
+    "negative_prompt": "plain, dull, unrecognizable, amateurish"
+  },
+  {
+    "name": "Chinese Fan Dance",
+    "prompt": "Chinese fan dance {prompt} . fans, traditional, dance, graceful, detailed",
+    "negative_prompt": "awkward, clumsy, uncoordinated, amateurish"
+  },
+  {
+    "name": "Chinese Scroll Painting",
+    "prompt": "Chinese scroll painting {prompt} . long scrolls, ink, traditional, storytelling, detailed",
+    "negative_prompt": "sloppy, faded, incomplete, unrecognizable"
+  },
+  {
+    "name": "Chinese Stone Carving",
+    "prompt": "Chinese stone carving {prompt} . stone, traditional, three-dimensional, detailed, craftsmanship",
+    "negative_prompt": "shapeless, rough, incomplete, amateurish"
+  },  {
+    "name": "Traditional Chinese Shan Shui",
+    "prompt": "traditional Chinese Shan Shui landscape {prompt} . ink wash, serene, poetic, mountains, rivers, traditional, nature",
+    "negative_prompt": "abstract, urban, chaotic, crowded, industrial, dystopian"
+  },
+  {
+    "name": "Chinese Bamboo Forests",
+    "prompt": "Chinese bamboo forests {prompt} . lush greenery, tranquil, bamboo shoots, traditional, nature",
+    "negative_prompt": "barren, polluted, deforested, lifeless"
+  },
+  {
+    "name": "Chinese Water Village",
+    "prompt": "traditional Chinese water village {prompt} . canals, traditional architecture, serene, bridges, traditional, cultural",
+    "negative_prompt": "concrete jungle, polluted, chaotic, modern, lifeless"
+  },
+  {
+    "name": "Chinese Rice Terraces",
+    "prompt": "Chinese rice terraces {prompt} . stepped fields, lush green, traditional, agriculture, picturesque",
+    "negative_prompt": "barren, eroded, neglected, damaged"
+  },
+  {
+    "name": "Chinese Zen Gardens",
+    "prompt": "Chinese Zen gardens {prompt} . raked sand, bonsai trees, serene, traditional, meditation",
+    "negative_prompt": "overgrown, cluttered, neglected, chaotic"
+  },
+  {
+    "name": "Chinese Great Wall",
+    "prompt": "Chinese Great Wall {prompt} . ancient, majestic, monumental, historical, architecture",
+    "negative_prompt": "ruined, crumbling, neglected, vandalized"
+  },
+  {
+    "name": "Chinese Mountain Peaks",
+    "prompt": "Chinese mountain peaks {prompt} . towering heights, breathtaking views, traditional, nature",
+    "negative_prompt": "barren, polluted, industrial, obscured"
+  },
+  {
+    "name": "Chinese Bamboo Rafts",
+    "prompt": "Chinese bamboo rafts {prompt} . tranquil waters, bamboo vessels, traditional, leisurely",
+    "negative_prompt": "polluted, noisy, crowded, modern"
+  },
+  {
+    "name": "Chinese Cherry Blossoms",
+    "prompt": "Chinese cherry blossoms {prompt} . delicate blooms, traditional, springtime, picturesque",
+    "negative_prompt": "bare trees, withered, polluted, desolate"
+  },
+  {
+    "name": "Chinese Tea Plantations",
+    "prompt": "Chinese tea plantations {prompt} . lush green fields, traditional, agriculture, picturesque",
+    "negative_prompt": "barren, neglected, overgrown, damaged"
+  },
+  {
+    "name": "Chinese Desert Oasis",
+    "prompt": "Chinese desert oasis {prompt} . palm trees, cool waters, traditional, refreshing, oasis",
+    "negative_prompt": "barren, dried up, polluted, lifeless"
+  },
+  {
+    "name": "Chinese Bamboo Bridges",
+    "prompt": "Chinese bamboo bridges {prompt} . traditional architecture, tranquil, picturesque, traditional",
+    "negative_prompt": "concrete bridges, crowded, noisy, modern"
+  },
+  {
+    "name": "Chinese Lakeside Retreat",
+    "prompt": "Chinese lakeside retreat {prompt} . serene lake, traditional architecture, peaceful, traditional, cultural",
+    "negative_prompt": "polluted lake, modern buildings, crowded, noisy"
+  },
+  {
+    "name": "Chinese Lush Valleys",
+    "prompt": "Chinese lush valleys {prompt} . fertile land, traditional, agriculture, picturesque",
+    "negative_prompt": "barren, polluted, neglected, eroded"
+  },
+  {
+    "name": "Chinese Bamboo Grove",
+    "prompt": "Chinese bamboo grove {prompt} . dense bamboo, tranquil, traditional, nature",
+    "negative_prompt": "barren, polluted, neglected, lifeless"
+  },
+  {
+    "name": "Chinese Mountain Temples",
+    "prompt": "Chinese mountain temples {prompt} . ancient architecture, breathtaking views, traditional, spiritual",
+    "negative_prompt": "ruined temples, vandalized, neglected, desecrated"
+  },
+  {
+    "name": "Chinese Coastal Villages",
+    "prompt": "Chinese coastal villages {prompt} . traditional fishing, serene coast, traditional, cultural",
+    "negative_prompt": "polluted coast, industrial, crowded, noisy"
+  },
+  {
+    "name": "Chinese Bamboo Gardens",
+    "prompt": "Chinese bamboo gardens {prompt} . lush greenery, traditional, tranquil, traditional",
+    "negative_prompt": "overgrown gardens, neglected, chaotic, lifeless"
+  },
+  {
+    "name": "Chinese Ancient Forests",
+    "prompt": "Chinese ancient forests {prompt} . ancient trees, pristine wilderness, traditional, nature",
+    "negative_prompt": "deforested, polluted, industrial, obscured"
+  },
+  {
+    "name": "Chinese Lotus Ponds",
+    "prompt": "Chinese lotus ponds {prompt} . blooming lotus, tranquil waters, traditional, picturesque",
+    "negative_prompt": "polluted ponds, overgrown, neglected, stagnant"
+  },
+  {
+    "name": "Chinese Countryside",
+    "prompt": "Chinese countryside {prompt} . rolling hills, traditional villages, tranquil, traditional, rural",
+    "negative_prompt": "polluted, crowded, noisy, modern"
+  },
+  {
+    "name": "Chinese Sacred Mountains",
+    "prompt": "Chinese sacred mountains {prompt} . ancient peaks, spiritual sites, traditional, breathtaking",
+    "negative_prompt": "barren, polluted, neglected, obscured"
+  },
+  {
+    "name": "Chinese Bamboo Groves",
+    "prompt": "Chinese bamboo groves {prompt} . dense bamboo, tranquil, traditional, nature",
+    "negative_prompt": "barren, polluted, neglected, lifeless"
+  },
+  {
+    "name": "Chinese Bamboo Bridges",
+    "prompt": "Chinese bamboo bridges {prompt} . traditional architecture, tranquil, picturesque, traditional",
+    "negative_prompt": "concrete bridges, crowded, noisy, modern"
+  },
+  {
+    "name": "Chinese Lakeside Retreat",
+    "prompt": "Chinese lakeside retreat {prompt} . serene lake, traditional architecture, peaceful, traditional, cultural",
+    "negative_prompt": "polluted lake, modern buildings, crowded, noisy"
+  },
+  {
+    "name": "Chinese Lush Valleys",
+    "prompt": "Chinese lush valleys {prompt} . fertile land, traditional, agriculture, picturesque",
+    "negative_prompt": "barren, polluted, neglected, eroded"
+  },
+  {
+    "name": "Chinese Bamboo Grove",
+    "prompt": "Chinese bamboo grove {prompt} . dense bamboo, tranquil, traditional, nature",
+    "negative_prompt": "barren, polluted, neglected, lifeless"
+  },
+  {
+    "name": "Chinese Mountain Temples",
+    "prompt": "Chinese mountain temples {prompt} . ancient architecture, breathtaking views, traditional, spiritual",
+    "negative_prompt": "ruined temples, vandalized, neglected, desecrated"
+  },
+  {
+    "name": "Chinese Coastal Villages",
+    "prompt": "Chinese coastal villages {prompt} . traditional fishing, serene coast, traditional, cultural",
+    "negative_prompt": "polluted coast, industrial, crowded, noisy"
+  },
+  {
+    "name": "Chinese Bamboo Gardens",
+    "prompt": "Chinese bamboo gardens {prompt} . lush greenery, traditional, tranquil, traditional",
+    "negative_prompt": "overgrown gardens, neglected, chaotic, lifeless"
+  },
+  {
+    "name": "Chinese Ancient Forests",
+    "prompt": "Chinese ancient forests {prompt} . ancient trees, pristine wilderness, traditional, nature",
+    "negative_prompt": "deforested, polluted, industrial, obscured"
+  },
+  {
+    "name": "Chinese Lotus Ponds",
+    "prompt": "Chinese lotus ponds {prompt} . blooming lotus, tranquil waters, traditional, picturesque",
+    "negative_prompt": "polluted ponds, overgrown, neglected, stagnant"
+  },
+  {
+    "name": "Chinese Countryside",
+    "prompt": "Chinese countryside {prompt} . rolling hills, traditional villages, tranquil, traditional, rural",
+    "negative_prompt": "polluted, crowded, noisy, modern"
+  },
+  {
+    "name": "Chinese Sacred Mountains",
+    "prompt": "Chinese sacred mountains {prompt} . ancient peaks, spiritual sites, traditional, breathtaking",
+    "negative_prompt": "barren, polluted, neglected, obscured"
+  },
+  {
+    "name": "Chinese Bamboo Groves",
+    "prompt": "Chinese bamboo groves {prompt} . dense bamboo, tranquil, traditional, nature",
+    "negative_prompt": "barren, polluted, neglected, lifeless"
+  },
+  {
+    "name": "Chinese Bamboo Bridges",
+    "prompt": "Chinese bamboo bridges {prompt} . traditional architecture, tranquil, picturesque, traditional",
+    "negative_prompt": "concrete bridges, crowded, noisy, modern"
+  },
+  {
+    "name": "Chinese Lakeside Retreat",
+    "prompt": "Chinese lakeside retreat {prompt} . serene lake, traditional architecture, peaceful, traditional, cultural",
+    "negative_prompt": "polluted lake, modern buildings, crowded, noisy"
+  },
+  {
+    "name": "Chinese Lush Valleys",
+    "prompt": "Chinese lush valleys {prompt} . fertile land, traditional, agriculture, picturesque",
+    "negative_prompt": "barren, polluted, neglected, eroded"
+  },
+  {
+    "name": "Chinese Bamboo Grove",
+    "prompt": "Chinese bamboo grove {prompt} . dense bamboo, tranquil, traditional, nature",
+    "negative_prompt": "barren, polluted, neglected, lifeless"
+  },
+  {
+    "name": "Chinese Mountain Temples",
+    "prompt": "Chinese mountain temples {prompt} . ancient architecture, breathtaking views, traditional, spiritual",
+    "negative_prompt": "ruined temples, vandalized, neglected, desecrated"
+  },
+  {
+    "name": "Chinese Coastal Villages",
+    "prompt": "Chinese coastal villages {prompt} . traditional fishing, serene coast, traditional, cultural",
+    "negative_prompt": "polluted coast, industrial, crowded, noisy"
+  },
+  {
+    "name": "Chinese Bamboo Gardens",
+    "prompt": "Chinese bamboo gardens {prompt} . lush greenery, traditional, tranquil, traditional",
+    "negative_prompt": "overgrown gardens, neglected, chaotic, lifeless"
+  },
+  {
+    "name": "Chinese Ancient Forests",
+    "prompt": "Chinese ancient forests {prompt} . ancient trees, pristine wilderness, traditional, nature",
+    "negative_prompt": "deforested, polluted, industrial, obscured"
+  },
+  {
+    "name": "Chinese Lotus Ponds",
+    "prompt": "Chinese lotus ponds {prompt} . blooming lotus, tranquil waters, traditional, picturesque",
+    "negative_prompt": "polluted ponds, overgrown, neglected, stagnant"
+  },
+  {
+    "name": "Chinese Countryside",
+    "prompt": "Chinese countryside {prompt} . rolling hills, traditional villages, tranquil, traditional, rural",
+    "negative_prompt": "polluted, crowded, noisy, modern"
   },
   {
     "name": "Sci-Fi Vector",
