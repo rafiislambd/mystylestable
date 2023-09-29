@@ -43,6 +43,160 @@
     "name": "Neon Vector",
     "prompt": "neon vector art {prompt} . glowing, neon lights, cyberpunk, futuristic, vibrant, electric, nightlife",
     "negative_prompt": "dull, dim, lifeless, uninspired, outdated"
+  }, {
+    "name": "Vector Style 1",
+    "prompt": "simple vector illustration {prompt} . clean lines, minimalistic, flat design, geometric shapes",
+    "negative_prompt": "chaotic, messy, cluttered, complex, realistic"
+  },
+  {
+    "name": "Vector Style 2",
+    "prompt": "cartoon vector art {prompt} . bold colors, playful, exaggerated features",
+    "negative_prompt": "dull, monochromatic, lifeless, boring"
+  },
+  {
+    "name": "Vector Style 3",
+    "prompt": "vector icon design {prompt} . sharp edges, scalable, clear symbols",
+    "negative_prompt": "pixelated, blurry, unrecognizable, outdated"
+  },
+  {
+    "name": "Vector Style 4",
+    "prompt": "vector logo {prompt} . corporate, sleek, professional",
+    "negative_prompt": "amateurish, amateur, unrefined, messy"
+  },
+  {
+    "name": "Vector Style 5",
+    "prompt": "infographic vector {prompt} . informative, visually appealing, data-driven",
+    "negative_prompt": "confusing, disorganized, illegible"
+  },
+  {
+    "name": "Vector Style 6",
+    "prompt": "vector pattern {prompt} . repetitive, seamless, decorative",
+    "negative_prompt": "incoherent, jumbled, chaotic"
+  },
+  {
+    "name": "Vector Style 7",
+    "prompt": "vector portrait {prompt} . detailed, lifelike, artistic",
+    "negative_prompt": "simplistic, unrecognizable, amateurish"
+  },
+  {
+    "name": "Vector Style 8",
+    "prompt": "retro vector art {prompt} . vintage, nostalgic, old-school",
+    "negative_prompt": "modern, futuristic, out-of-place"
+  },
+  {
+    "name": "Vector Style 9",
+    "prompt": "abstract vector {prompt} . non-representational, artistic, unique",
+    "negative_prompt": "literal, uninspired, derivative"
+  },
+  {
+    "name": "Vector Style 10",
+    "prompt": "botanical vector {prompt} . floral, natural, organic",
+    "negative_prompt": "artificial, sterile, lifeless"
+  },
+  {
+    "name": "Vector Style 11",
+    "prompt": "vector typography {prompt} . text-based, fonts, graphic",
+    "negative_prompt": "illegible, messy, amateurish"
+  },
+  {
+    "name": "Vector Style 12",
+    "prompt": "vector cityscape {prompt} . urban, city, skyline",
+    "negative_prompt": "rural, countryside, deserted"
+  },
+  {
+    "name": "Vector Style 13",
+    "prompt": "vector technology {prompt} . gadgets, electronics, futuristic",
+    "negative_prompt": "outdated, obsolete, clunky"
+  },
+  {
+    "name": "Vector Style 14",
+    "prompt": "vector animals {prompt} . wildlife, creatures, fauna",
+    "negative_prompt": "extinct, mythical, fictional"
+  },
+  {
+    "name": "Vector Style 15",
+    "prompt": "vintage vector {prompt} . aged, retro, classic",
+    "negative_prompt": "contemporary, modern, fresh"
+  },
+  {
+    "name": "Vector Style 16",
+    "prompt": "vector food illustration {prompt} . delicious, appetizing, culinary",
+    "negative_prompt": "unpalatable, unappetizing, tasteless"
+  },
+  {
+    "name": "Vector Style 17",
+    "prompt": "vector fashion {prompt} . trendy, stylish, haute couture",
+    "negative_prompt": "outdated, unfashionable, frumpy"
+  },
+  {
+    "name": "Vector Style 18",
+    "prompt": "vector travel {prompt} . wanderlust, adventure, exploration",
+    "negative_prompt": "staycation, confinement, isolation"
+  },
+  {
+    "name": "Vector Style 19",
+    "prompt": "vector sports {prompt} . athletic, competitive, energetic",
+    "negative_prompt": "sedentary, lazy, lethargic"
+  },
+  {
+    "name": "Vector Style 20",
+    "prompt": "vector music {prompt} . rhythmic, melodic, harmonious",
+    "negative_prompt": "discordant, cacophonous, jarring"
+  },
+  {
+    "name": "Vector Style 21",
+    "prompt": "vector holidays {prompt} . festive, celebratory, joyous",
+    "negative_prompt": "dreary, mournful, sorrowful"
+  },
+  {
+    "name": "Vector Style 22",
+    "prompt": "vector nature {prompt} . serene, tranquil, scenic",
+    "negative_prompt": "polluted, industrial, dystopian"
+  },
+  {
+    "name": "Vector Style 23",
+    "prompt": "vector fantasy {prompt} . magical, mythical, enchanting",
+    "negative_prompt": "mundane, ordinary, unremarkable"
+  },
+  {
+    "name": "Vector Style 24",
+    "prompt": "vector education {prompt} . informative, instructive, enlightening",
+    "negative_prompt": "ignorant, uninformed, misleading"
+  },
+  {
+    "name": "Vector Style 25",
+    "prompt": "vector health {prompt} . wellness, fitness, vitality",
+    "negative_prompt": "sickly, ailing, unwell"
+  },
+  {
+    "name": "Vector Style 26",
+    "prompt": "vector technology {prompt} . innovative, cutting-edge, futuristic",
+    "negative_prompt": "obsolete, outdated, archaic"
+  },
+  {
+    "name": "Vector Style 27",
+    "prompt": "vector animals {prompt} . wildlife, creatures, fauna",
+    "negative_prompt": "extinct, mythical, fictional"
+  },
+  {
+    "name": "Vector Style 28",
+    "prompt": "vector cityscape {prompt} . urban, city, skyline",
+    "negative_prompt": "rural, countryside, deserted"
+  },
+  {
+    "name": "Vector Style 29",
+    "prompt": "vector fashion {prompt} . trendy, stylish, haute couture",
+    "negative_prompt": "outdated, unfashionable, frumpy"
+  },
+  {
+    "name": "Vector Style 30",
+    "prompt": "vector travel {prompt} . wanderlust, adventure, exploration",
+    "negative_prompt": "staycation, confinement, isolation"
+  },
+  {
+    "name": "Vector Style 31",
+    "prompt": "vector sports {prompt} . athletic, competitive, energetic",
+    "negative_prompt": "sedentary, lazy, lethargic"
   },
   {
     "name": "Sci-Fi Vector",
