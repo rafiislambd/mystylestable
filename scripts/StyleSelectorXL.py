@@ -121,7 +121,7 @@ class StyleSelectorXL(scripts.Script):
     def ui(self, is_img2img):
         enabled = getattr(shared.opts, "enable_styleselector_by_default", True)
         with gr.Group():
-            with gr.Accordion("SDXL Styles", open=enabled):
+            with gr.Accordion("SR Rakib Styles", open=enabled):
                 with FormRow():
                     with FormColumn(min_width=160):
                         is_enabled = gr.Checkbox(
