@@ -5,6 +5,11 @@
     "negative_prompt": ""
   },
   {
+"name": "Simple Shapes",
+"prompt": "flat vector illustration {prompt} . basic shapes, minimalist, straightforward, uncomplicated, primary colors",
+"negative_prompt": "complex, intricate, detailed, realistic, ornate, multi-layered"
+},
+  {
     "name": "Abstract Vector",
     "prompt": "abstract vector art {prompt} . geometric shapes, vibrant colors, vector illustration, digital art, modern, contemporary, fluid lines",
     "negative_prompt": "realism, photography, analog, black and white, chaotic, messy, disorganized"
