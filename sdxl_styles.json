@@ -673,6 +673,239 @@
         "name": "Artistic T-Shirt Design",
         "prompt": "Artistic, creative, expressive, imaginative, artistic t-shirt design",
         "negative_prompt": "plain, unadorned, unembellished, unrelated, off-topic"
+    },{
+        "name": "Circle T-Shirt Design",
+        "prompt": "Circle, round, circular, sphere, circle t-shirt design",
+        "negative_prompt": "non-circular, square, rectangle, unrelated, off-topic"
+    },
+    {
+        "name": "Geometric Circle T-Shirt Design",
+        "prompt": "Geometric Circle, shapes, lines, symmetry, geometric circle t-shirt design",
+        "negative_prompt": "organic, fluid, irregular, unrelated, off-topic"
+    },
+    {
+        "name": "Mandala T-Shirt Design",
+        "prompt": "Mandala, spiritual, sacred geometry, intricate, mandala t-shirt design",
+        "negative_prompt": "non-mandala, simple, plain, unrelated, off-topic"
+    },
+    {
+        "name": "Sun T-Shirt Design",
+        "prompt": "Sun, solar, sunshine, brightness, sun t-shirt design",
+        "negative_prompt": "moon, darkness, night, unrelated, off-topic"
+    },
+    {
+        "name": "Moon T-Shirt Design",
+        "prompt": "Moon, lunar, night, celestial, moon t-shirt design",
+        "negative_prompt": "sun, daylight, brightness, unrelated, off-topic"
+    },
+    {
+        "name": "Planets T-Shirt Design",
+        "prompt": "Planets, cosmos, solar system, space, planets t-shirt design",
+        "negative_prompt": "earth, terrestrial, non-planetary, unrelated, off-topic"
+    },
+    {
+        "name": "Galaxy T-Shirt Design",
+        "prompt": "Galaxy, universe, stars, cosmos, galaxy t-shirt design",
+        "negative_prompt": "earth, terrestrial, non-galactic, unrelated, off-topic"
+    },
+    {
+        "name": "Infinity Symbol T-Shirt Design",
+        "prompt": "Infinity Symbol, eternity, endless, infinite, infinity symbol t-shirt design",
+        "negative_prompt": "finite, limited, bounded, unrelated, off-topic"
+    },
+    {
+        "name": "Yin Yang T-Shirt Design",
+        "prompt": "Yin Yang, balance, harmony, duality, yin yang t-shirt design",
+        "negative_prompt": "imbalance, disharmony, chaos, unrelated, off-topic"
+    },
+    {
+        "name": "Zen Circle T-Shirt Design",
+        "prompt": "Zen Circle, enlightenment, meditation, simplicity, zen circle t-shirt design",
+        "negative_prompt": "complexity, chaos, distraction, unrelated, off-topic"
+    },
+    {
+        "name": "Target Circle T-Shirt Design",
+        "prompt": "Target Circle, aim, goal, precision, target circle t-shirt design",
+        "negative_prompt": "miss, off-target, imprecision, unrelated, off-topic"
+    },
+    {
+        "name": "Bubble T-Shirt Design",
+        "prompt": "Bubble, spheres, round, bubbles, bubble t-shirt design",
+        "negative_prompt": "flat, deflated, popped, unrelated, off-topic"
+    },
+    {
+        "name": "Wheel T-Shirt Design",
+        "prompt": "Wheel, tire, rotation, circular, wheel t-shirt design",
+        "negative_prompt": "square, immobile, stationary, unrelated, off-topic"
+    },
+    {
+        "name": "Clock T-Shirt Design",
+        "prompt": "Clock, time, hours, minutes, clock t-shirt design",
+        "negative_prompt": "timeless, eternal, unrelated, off-topic"
+    },
+    {
+        "name": "Record T-Shirt Design",
+        "prompt": "Record, vinyl, music, retro, record t-shirt design",
+        "negative_prompt": "digital, non-musical, unrelated, off-topic"
+    },
+    {
+        "name": "Porthole T-Shirt Design",
+        "prompt": "Porthole, ship, nautical, round window, porthole t-shirt design",
+        "negative_prompt": "square window, land-based, unrelated, off-topic"
+    },
+    {
+        "name": "Wheel of Fortune T-Shirt Design",
+        "prompt": "Wheel of Fortune, luck, chance, fate, wheel of fortune t-shirt design",
+        "negative_prompt": "misfortune, unlucky, unrelated, off-topic"
+    },
+    {
+        "name": "Rosette T-Shirt Design",
+        "prompt": "Rosette, floral, ornament, award, rosette t-shirt design",
+        "negative_prompt": "plain, unadorned, simple, unrelated, off-topic"
+    },
+    {
+        "name": "Coin T-Shirt Design",
+        "prompt": "Coin, currency, money, circular, coin t-shirt design",
+        "negative_prompt": "square, non-monetary, unrelated, off-topic"
+    },
+    {
+        "name": "Lifebuoy T-Shirt Design",
+        "prompt": "Lifebuoy, safety, rescue, nautical, lifebuoy t-shirt design",
+        "negative_prompt": "danger, peril, unrelated, off-topic"
+    },{
+        "name": "T-Shirt Logo Design",
+        "prompt": "T-Shirt Logo Design, apparel, clothing, fashion, t-shirt logo design",
+        "negative_prompt": "non-apparel, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Typography T-Shirt Logo Design",
+        "prompt": "Typography, fonts, letters, words, typography t-shirt logo design",
+        "negative_prompt": "non-typographic, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Graphic T-Shirt Logo Design",
+        "prompt": "Graphic, illustration, artwork, visuals, graphic t-shirt logo design",
+        "negative_prompt": "non-graphic, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Vintage T-Shirt Logo Design",
+        "prompt": "Vintage, retro, classic, old-school, vintage t-shirt logo design",
+        "negative_prompt": "modern, futuristic, contemporary, unrelated, off-topic"
+    },
+    {
+        "name": "Pop Culture T-Shirt Logo Design",
+        "prompt": "Pop Culture, media, entertainment, celebrities, pop culture t-shirt logo design",
+        "negative_prompt": "non-pop culture, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Minimalist T-Shirt Logo Design",
+        "prompt": "Minimalist, simplicity, clean, sleek, minimalist t-shirt logo design",
+        "negative_prompt": "complex, intricate, detailed, unrelated, off-topic"
+    },
+    {
+        "name": "Abstract T-Shirt Logo Design",
+        "prompt": "Abstract, artistic, conceptual, non-representational, abstract t-shirt logo design",
+        "negative_prompt": "literal, representational, figurative, unrelated, off-topic"
+    },
+    {
+        "name": "Geometric T-Shirt Logo Design",
+        "prompt": "Geometric, shapes, lines, symmetry, geometric t-shirt logo design",
+        "negative_prompt": "organic, fluid, irregular, unrelated, off-topic"
+    },
+    {
+        "name": "Illustrative T-Shirt Logo Design",
+        "prompt": "Illustrative, pictorial, imagery, illustration, illustrative t-shirt logo design",
+        "negative_prompt": "typographic, abstract, minimalist, unrelated, off-topic"
+    },
+    {
+        "name": "Animal T-Shirt Logo Design",
+        "prompt": "Animal, wildlife, pets, creatures, animal t-shirt logo design",
+        "negative_prompt": "non-animal, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Nature T-Shirt Logo Design",
+        "prompt": "Nature, outdoors, environment, landscape, nature t-shirt logo design",
+        "negative_prompt": "urban, indoor, non-nature, unrelated, off-topic"
+    },
+    {
+        "name": "Space T-Shirt Logo Design",
+        "prompt": "Space, cosmos, stars, planets, space t-shirt logo design",
+        "negative_prompt": "terrestrial, earthly, non-space, unrelated, off-topic"
+    },
+    {
+        "name": "Sci-Fi T-Shirt Logo Design",
+        "prompt": "Sci-Fi, science fiction, futuristic, space, sci-fi t-shirt logo design",
+        "negative_prompt": "non-sci-fi, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Fantasy T-Shirt Logo Design",
+        "prompt": "Fantasy, mythical, magical, creatures, fantasy t-shirt logo design",
+        "negative_prompt": "realistic, non-fantasy, unrelated, off-topic, off-theme"
+    },
+    {
+        "name": "Gaming T-Shirt Logo Design",
+        "prompt": "Gaming, video games, gamer, gaming culture, gaming t-shirt logo design",
+        "negative_prompt": "non-gaming, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Sports T-Shirt Logo Design",
+        "prompt": "Sports, athletics, competition, fitness, sports t-shirt logo design",
+        "negative_prompt": "sedentary, inactive, non-sporty, unrelated, off-topic"
+    },
+    {
+        "name": "Music T-Shirt Logo Design",
+        "prompt": "Music, musician, musical, notes, music t-shirt logo design",
+        "negative_prompt": "non-music, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Foodie T-Shirt Logo Design",
+        "prompt": "Foodie, culinary, gastronomy, food culture, foodie t-shirt logo design",
+        "negative_prompt": "non-foodie, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Travel T-Shirt Logo Design",
+        "prompt": "Travel, tourism, destinations, adventure, travel t-shirt logo design",
+        "negative_prompt": "stationary, immobile, non-travel, unrelated, off-topic"
+    },
+    {
+        "name": "Artistic T-Shirt Logo Design",
+        "prompt": "Artistic, creative, expressive, imaginative, artistic t-shirt logo design",
+        "negative_prompt": "plain, unadorned, unembellished, unrelated, off-topic"
+    },
+    {
+        "name": "Circle T-Shirt Logo Design",
+        "prompt": "Circle, round, circular, sphere, circle t-shirt logo design",
+        "negative_prompt": "non-circular, square, rectangle, unrelated, off-topic"
+    },
+    {
+        "name": "Gradient T-Shirt Logo Design",
+        "prompt": "Gradient, color, transition, blend, gradient t-shirt logo design",
+        "negative_prompt": "solid color, non-gradient, unrelated, off-topic"
+    },
+    {
+        "name": "Watercolor T-Shirt Logo Design",
+        "prompt": "Watercolor, painting, art, brush strokes, watercolor t-shirt logo design",
+        "negative_prompt": "non-watercolor, unrelated, off-topic"
+    },
+    {
+        "name": "Vintage Badge T-Shirt Logo Design",
+        "prompt": "Vintage Badge, retro, classic, insignia, vintage badge t-shirt logo design",
+        "negative_prompt": "modern, futuristic, contemporary, unrelated, off-topic"
+    },
+    {
+        "name": "Retro Pattern T-Shirt Logo Design",
+        "prompt": "Retro Pattern, vintage, classic, nostalgic, retro pattern t-shirt logo design",
+        "negative_prompt": "modern, futuristic, contemporary, unrelated, off-topic"
+    },
+    {
+        "name": "Abstract Symbol T-Shirt Logo Design",
+        "prompt": "Abstract Symbol, symbolic, abstract, representation, abstract symbol t-shirt logo design",
+        "negative_prompt": "literal, representational, figurative, unrelated, off-topic"
+    },
+    {
+        "name": "Sport Team T-Shirt Logo Design",
+        "prompt": "Sport Team, athletics, competition, team spirit, sport team t-shirt logo design",
+        "negative_prompt": "non-sporty, individual, unrelated, off-topic"
     },
   {
         "name": "Fooocus Sharp",
