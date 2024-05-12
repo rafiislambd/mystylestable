@@ -203,6 +203,478 @@
     "prompt": "vector sports {prompt} . athletic, competitive, energetic",
     "negative_prompt": "sedentary, lazy, lethargic"
   }, {
+        "name": "Logo Design Styles",
+        "prompt": "Logo Design, {prompt}, dynamic graphic art, vector art, minimalist, professional logo design",
+        "negative_prompt": "old-fashioned, chaotic, childish, unprofessional, cluttered"
+    },
+    {
+        "name": "Vintage Logo Design",
+        "prompt": "Vintage, retro, classic, old-school, antique, nostalgic, vintage logo design",
+        "negative_prompt": "modern, futuristic, contemporary, sleek, high-tech"
+    },
+    {
+        "name": "Flat Logo Design",
+        "prompt": "Flat, simple, two-dimensional, flat design, flat logo design",
+        "negative_prompt": "3D, textured, gradient, glossy, shiny"
+    },
+    {
+        "name": "Monogram Logo Design",
+        "prompt": "Monogram, lettermark, initials, typographic logo design, monogram logo design",
+        "negative_prompt": "illustrative, pictorial, emblem, mascot, abstract"
+    },
+    {
+        "name": "Geometric Logo Design",
+        "prompt": "Geometric, shapes, lines, symmetry, geometric logo design",
+        "negative_prompt": "organic, fluid, irregular, asymmetrical, freeform"
+    },
+    {
+        "name": "Wordmark Logo Design",
+        "prompt": "Wordmark, logotype, typography, text-based logo design, wordmark logo design",
+        "negative_prompt": "symbol, icon, emblem, pictorial, abstract"
+    },
+    {
+        "name": "Badge Logo Design",
+        "prompt": "Badge, crest, shield, insignia, emblem, badge logo design",
+        "negative_prompt": "minimalist, sleek, modern, simple, clean"
+    },
+    {
+        "name": "Mascot Logo Design",
+        "prompt": "Mascot, character, cartoon, playful, mascot logo design",
+        "negative_prompt": "formal, serious, corporate, minimalist, abstract"
+    },
+    {
+        "name": "Abstract Logo Design",
+        "prompt": "Abstract, artistic, conceptual, non-representational, abstract logo design",
+        "negative_prompt": "literal, representational, figurative, concrete, realistic"
+    },
+    {
+        "name": "Illustrative Logo Design",
+        "prompt": "Illustrative, pictorial, imagery, illustration, illustrative logo design",
+        "negative_prompt": "typographic, abstract, minimalist, symbolic, geometric"
+    },
+    {
+        "name": "Minimalist Logo Design",
+        "prompt": "Minimalist, simplicity, clean, sleek, minimalist logo design",
+        "negative_prompt": "complex, intricate, detailed, ornate, decorative"
+    },
+    {
+        "name": "Emblem Logo Design",
+        "prompt": "Emblem, symbol, badge, insignia, emblem logo design",
+        "negative_prompt": "abstract, minimalist, modern, sleek, simple"
+    },
+    {
+        "name": "Dynamic Logo Design",
+        "prompt": "Dynamic, movement, energy, kinetic, dynamic logo design",
+        "negative_prompt": "static, stationary, stagnant, inert, motionless"
+    },
+    {
+        "name": "Luxury Logo Design",
+        "prompt": "Luxury, premium, high-end, elegant, luxury logo design",
+        "negative_prompt": "budget, cheap, affordable, basic, low-cost"
+    },
+    {
+        "name": "Corporate Logo Design",
+        "prompt": "Corporate, professional, business, enterprise, corporate logo design",
+        "negative_prompt": "casual, informal, playful, creative, artistic"
+    },
+    {
+        "name": "Tech Logo Design",
+        "prompt": "Tech, technology, futuristic, innovation, tech logo design",
+        "negative_prompt": "traditional, outdated, old-fashioned, retro, vintage"
+    },
+    {
+        "name": "Gaming Logo Design",
+        "prompt": "Gaming, esports, gamer, video games, gaming logo design",
+        "negative_prompt": "business, corporate, professional, serious, formal"
+    },
+    {
+        "name": "Fashion Logo Design",
+        "prompt": "Fashion, stylish, trendy, chic, fashion logo design",
+        "negative_prompt": "outdated, unfashionable, old-fashioned, traditional, dull"
+    },
+    {
+        "name": "Food Logo Design",
+        "prompt": "Food, culinary, restaurant, gastronomy, food logo design",
+        "negative_prompt": "non-food, industrial, technological, corporate, professional"
+    },
+    {
+        "name": "Artistic Logo Design",
+        "prompt": "Artistic, creative, expressive, imaginative, artistic logo design",
+        "negative_prompt": "plain, unadorned, unembellished, uninspired, pedestrian"
+    },{
+        "name": "Photography Logo Design",
+        "prompt": "Photography, photographer, camera, lens, photography logo design",
+        "negative_prompt": "non-photographic, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Music Logo Design",
+        "prompt": "Music, musician, musical, notes, instruments, music logo design",
+        "negative_prompt": "non-musical, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Fitness Logo Design",
+        "prompt": "Fitness, gym, exercise, health, wellness, fitness logo design",
+        "negative_prompt": "sedentary, inactive, unhealthy, non-fitness, unrelated"
+    },
+    {
+        "name": "Real Estate Logo Design",
+        "prompt": "Real Estate, property, homes, houses, real estate logo design",
+        "negative_prompt": "virtual, digital, intangible, unrelated, off-topic"
+    },
+    {
+        "name": "Travel Logo Design",
+        "prompt": "Travel, tourism, destinations, journey, travel logo design",
+        "negative_prompt": "stationary, immobile, non-travel, unrelated, off-topic"
+    },
+    {
+        "name": "Education Logo Design",
+        "prompt": "Education, learning, school, knowledge, education logo design",
+        "negative_prompt": "unlearned, ignorant, uneducated, non-educational, off-topic"
+    },
+    {
+        "name": "Healthcare Logo Design",
+        "prompt": "Healthcare, medical, wellness, hospital, healthcare logo design",
+        "negative_prompt": "non-healthcare, irrelevant, unrelated, off-topic, off-theme"
+    },
+    {
+        "name": "Finance Logo Design",
+        "prompt": "Finance, banking, money, investment, finance logo design",
+        "negative_prompt": "non-financial, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Legal Logo Design",
+        "prompt": "Legal, law, justice, attorney, legal logo design",
+        "negative_prompt": "illegal, unlawful, criminal, non-legal, unrelated"
+    },
+    {
+        "name": "Pet Logo Design",
+        "prompt": "Pet, animal, veterinarian, cute, pet logo design",
+        "negative_prompt": "inhumane, cruel, unkind, non-pet, unrelated"
+    },
+    {
+        "name": "Environmental Logo Design",
+        "prompt": "Environmental, eco-friendly, green, sustainability, environmental logo design",
+        "negative_prompt": "non-environmental, unsustainable, harmful, unrelated, off-topic"
+    },
+    {
+        "name": "Technology Logo Design",
+        "prompt": "Technology, digital, innovation, hi-tech, technology logo design",
+        "negative_prompt": "non-technological, analog, outdated, unrelated, off-topic"
+    },
+    {
+        "name": "Automotive Logo Design",
+        "prompt": "Automotive, cars, vehicles, automobile, automotive logo design",
+        "negative_prompt": "non-automotive, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Cosmetic Logo Design",
+        "prompt": "Cosmetic, beauty, skincare, makeup, cosmetic logo design",
+        "negative_prompt": "ugly, unattractive, non-cosmetic, unrelated, off-topic"
+    },
+    {
+        "name": "Interior Design Logo Design",
+        "prompt": "Interior Design, home decor, architecture, interior design logo design",
+        "negative_prompt": "external, exterior, non-interior, unrelated, off-topic"
+    },
+    {
+        "name": "Event Planning Logo Design",
+        "prompt": "Event Planning, party, celebration, occasion, event planning logo design",
+        "negative_prompt": "non-event, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Restaurant Logo Design",
+        "prompt": "Restaurant, dining, food, cuisine, restaurant logo design",
+        "negative_prompt": "non-restaurant, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Marketing Logo Design",
+        "prompt": "Marketing, advertising, promotion, branding, marketing logo design",
+        "negative_prompt": "non-marketing, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Entertainment Logo Design",
+        "prompt": "Entertainment, fun, enjoyment, leisure, entertainment logo design",
+        "negative_prompt": "boring, dull, uninteresting, non-entertainment, unrelated"
+    },
+    {
+        "name": "Art Logo Design",
+        "prompt": "Art, creativity, imagination, expression, art logo design",
+        "negative_prompt": "unartistic, non-art, uninspired, unrelated, off-topic"
+    },
+    {
+        "name": "Technology Startup Logo Design",
+        "prompt": "Technology Startup, innovation, disruption, tech, technology startup logo design",
+        "negative_prompt": "stagnant, old-fashioned, traditional, non-startup, unrelated"
+    },
+    {
+        "name": "Eco-Friendly Logo Design",
+        "prompt": "Eco-Friendly, sustainability, green, environment, eco-friendly logo design",
+        "negative_prompt": "unsustainable, harmful, wasteful, non-eco-friendly, unrelated"
+    },
+    {
+        "name": "Charity Logo Design",
+        "prompt": "Charity, nonprofit, philanthropy, giving, charity logo design",
+        "negative_prompt": "selfish, greedy, non-charitable, unrelated, off-topic"
+    },
+    {
+        "name": "Sports Logo Design",
+        "prompt": "Sports, athletics, competition, fitness, sports logo design",
+        "negative_prompt": "sedentary, inactive, non-sporty, unrelated, off-topic"
+    },
+    {
+        "name": "Fashion Boutique Logo Design",
+        "prompt": "Fashion Boutique, clothing, style, chic, fashion boutique logo design",
+        "negative_prompt": "unstylish, unfashionable, outdated, non-boutique, unrelated"
+    },
+    {
+        "name": "Coffee Shop Logo Design",
+        "prompt": "Coffee Shop, cafe, espresso, coffee, coffee shop logo design",
+        "negative_prompt": "non-coffee, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Web Design Logo Design",
+        "prompt": "Web Design, website, internet, online, web design logo design",
+        "negative_prompt": "non-web, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Yoga Logo Design",
+        "prompt": "Yoga, meditation, mindfulness, balance, yoga logo design",
+        "negative_prompt": "chaotic, stressful, non-yoga, unrelated, off-topic"
+    },
+    {
+        "name": "Juice Bar Logo Design",
+        "prompt": "Juice Bar, smoothie, healthy, organic, juice bar logo design",
+        "negative_prompt": "unhealthy, processed, non-juice, unrelated, off-topic"
+    },
+    {
+        "name": "DIY Logo Design",
+        "prompt": "DIY, handmade, crafts, artisan, DIY logo design",
+        "negative_prompt": "mass-produced, factory-made, non-DIY, unrelated, off-topic"
+    },{
+        "name": "Pet Grooming Logo Design",
+        "prompt": "Pet Grooming, grooming, pets, animals, pet grooming logo design",
+        "negative_prompt": "ungroomed, messy, dirty, non-grooming, unrelated"
+    },
+    {
+        "name": "Wedding Planner Logo Design",
+        "prompt": "Wedding Planner, weddings, marriage, love, wedding planner logo design",
+        "negative_prompt": "non-wedding, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Architecture Logo Design",
+        "prompt": "Architecture, buildings, structures, design, architecture logo design",
+        "negative_prompt": "non-architectural, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Graphic Design Logo Design",
+        "prompt": "Graphic Design, visuals, graphics, creativity, graphic design logo design",
+        "negative_prompt": "non-graphic, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Landscaping Logo Design",
+        "prompt": "Landscaping, gardens, outdoors, nature, landscaping logo design",
+        "negative_prompt": "indoor, non-landscaping, unrelated, off-topic, off-theme"
+    },
+    {
+        "name": "Tattoo Studio Logo Design",
+        "prompt": "Tattoo Studio, tattoos, ink, body art, tattoo studio logo design",
+        "negative_prompt": "non-tattoo, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Law Firm Logo Design",
+        "prompt": "Law Firm, legal, justice, attorney, law firm logo design",
+        "negative_prompt": "illegal, non-legal, unrelated, off-topic, off-theme"
+    },
+    {
+        "name": "Consulting Logo Design",
+        "prompt": "Consulting, advice, expertise, consultancy, consulting logo design",
+        "negative_prompt": "non-consulting, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Architecture Firm Logo Design",
+        "prompt": "Architecture Firm, buildings, structures, design, architecture firm logo design",
+        "negative_prompt": "non-architectural, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Medical Clinic Logo Design",
+        "prompt": "Medical Clinic, healthcare, doctor, wellness, medical clinic logo design",
+        "negative_prompt": "non-medical, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Beauty Salon Logo Design",
+        "prompt": "Beauty Salon, hair, nails, spa, beauty salon logo design",
+        "negative_prompt": "non-beauty, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Fitness Studio Logo Design",
+        "prompt": "Fitness Studio, gym, exercise, health, fitness studio logo design",
+        "negative_prompt": "sedentary, inactive, non-fitness, unrelated, off-topic"
+    },
+    {
+        "name": "Digital Marketing Logo Design",
+        "prompt": "Digital Marketing, online, internet, promotion, digital marketing logo design",
+        "negative_prompt": "non-digital, offline, unrelated, irrelevant, off-topic"
+    },
+    {
+        "name": "Coffeehouse Logo Design",
+        "prompt": "Coffeehouse, cafe, espresso, coffee, coffeehouse logo design",
+        "negative_prompt": "non-coffee, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Mobile App Logo Design",
+        "prompt": "Mobile App, smartphone, technology, app, mobile app logo design",
+        "negative_prompt": "non-mobile, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Fitness Apparel Logo Design",
+        "prompt": "Fitness Apparel, sportswear, workout, exercise, fitness apparel logo design",
+        "negative_prompt": "sedentary, inactive, non-fitness, unrelated, off-topic"
+    },
+    {
+        "name": "Daycare Logo Design",
+        "prompt": "Daycare, childcare, children, preschool, daycare logo design",
+        "negative_prompt": "non-daycare, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Financial Advisor Logo Design",
+        "prompt": "Financial Advisor, finance, investment, money, financial advisor logo design",
+        "negative_prompt": "non-financial, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Digital Agency Logo Design",
+        "prompt": "Digital Agency, online, internet, marketing, digital agency logo design",
+        "negative_prompt": "non-digital, offline, unrelated, irrelevant, off-topic"
+    },
+    {
+        "name": "Landscape Design Logo Design",
+        "prompt": "Landscape Design, gardening, outdoors, nature, landscape design logo design",
+        "negative_prompt": "indoor, non-landscape, unrelated, off-topic, off-theme"
+    },
+    {
+        "name": "Financial Planning Logo Design",
+        "prompt": "Financial Planning, finance, investment, money, financial planning logo design",
+        "negative_prompt": "non-financial, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Tech Startup Logo Design",
+        "prompt": "Tech Startup, technology, innovation, startup, tech startup logo design",
+        "negative_prompt": "stagnant, old-fashioned, traditional, non-startup, unrelated"
+    },
+    {
+        "name": "Nutritionist Logo Design",
+        "prompt": "Nutritionist, diet, health, wellness, nutritionist logo design",
+        "negative_prompt": "unhealthy, non-nutrition, unrelated, off-topic, off-theme"
+    },
+    {
+        "name": "Fashion Brand Logo Design",
+        "prompt": "Fashion Brand, clothing, style, chic, fashion brand logo design",
+        "negative_prompt": "unstylish, unfashionable, outdated, non-brand, unrelated"
+    },
+    {
+        "name": "Graphic Novel Logo Design",
+        "prompt": "Graphic Novel, comics, illustrations, storytelling, graphic novel logo design",
+        "negative_prompt": "non-graphic, unrelated, irrelevant, off-topic, off-theme"
+    },{
+        "name": "T-Shirt Design",
+        "prompt": "T-Shirt Design, apparel, clothing, fashion, t-shirt design",
+        "negative_prompt": "non-apparel, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Typography T-Shirt Design",
+        "prompt": "Typography, fonts, letters, words, typography t-shirt design",
+        "negative_prompt": "non-typographic, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Graphic T-Shirt Design",
+        "prompt": "Graphic, illustration, artwork, visuals, graphic t-shirt design",
+        "negative_prompt": "non-graphic, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Vintage T-Shirt Design",
+        "prompt": "Vintage, retro, classic, old-school, vintage t-shirt design",
+        "negative_prompt": "modern, futuristic, contemporary, unrelated, off-topic"
+    },
+    {
+        "name": "Pop Culture T-Shirt Design",
+        "prompt": "Pop Culture, media, entertainment, celebrities, pop culture t-shirt design",
+        "negative_prompt": "non-pop culture, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Minimalist T-Shirt Design",
+        "prompt": "Minimalist, simplicity, clean, sleek, minimalist t-shirt design",
+        "negative_prompt": "complex, intricate, detailed, unrelated, off-topic"
+    },
+    {
+        "name": "Abstract T-Shirt Design",
+        "prompt": "Abstract, artistic, conceptual, non-representational, abstract t-shirt design",
+        "negative_prompt": "literal, representational, figurative, unrelated, off-topic"
+    },
+    {
+        "name": "Geometric T-Shirt Design",
+        "prompt": "Geometric, shapes, lines, symmetry, geometric t-shirt design",
+        "negative_prompt": "organic, fluid, irregular, unrelated, off-topic"
+    },
+    {
+        "name": "Illustrative T-Shirt Design",
+        "prompt": "Illustrative, pictorial, imagery, illustration, illustrative t-shirt design",
+        "negative_prompt": "typographic, abstract, minimalist, unrelated, off-topic"
+    },
+    {
+        "name": "Animal T-Shirt Design",
+        "prompt": "Animal, wildlife, pets, creatures, animal t-shirt design",
+        "negative_prompt": "non-animal, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Nature T-Shirt Design",
+        "prompt": "Nature, outdoors, environment, landscape, nature t-shirt design",
+        "negative_prompt": "urban, indoor, non-nature, unrelated, off-topic"
+    },
+    {
+        "name": "Space T-Shirt Design",
+        "prompt": "Space, cosmos, stars, planets, space t-shirt design",
+        "negative_prompt": "terrestrial, earthly, non-space, unrelated, off-topic"
+    },
+    {
+        "name": "Sci-Fi T-Shirt Design",
+        "prompt": "Sci-Fi, science fiction, futuristic, space, sci-fi t-shirt design",
+        "negative_prompt": "non-sci-fi, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Fantasy T-Shirt Design",
+        "prompt": "Fantasy, mythical, magical, creatures, fantasy t-shirt design",
+        "negative_prompt": "realistic, non-fantasy, unrelated, off-topic, off-theme"
+    },
+    {
+        "name": "Gaming T-Shirt Design",
+        "prompt": "Gaming, video games, gamer, gaming culture, gaming t-shirt design",
+        "negative_prompt": "non-gaming, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Sports T-Shirt Design",
+        "prompt": "Sports, athletics, competition, fitness, sports t-shirt design",
+        "negative_prompt": "sedentary, inactive, non-sporty, unrelated, off-topic"
+    },
+    {
+        "name": "Music T-Shirt Design",
+        "prompt": "Music, musician, musical, notes, music t-shirt design",
+        "negative_prompt": "non-music, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Foodie T-Shirt Design",
+        "prompt": "Foodie, culinary, gastronomy, food culture, foodie t-shirt design",
+        "negative_prompt": "non-foodie, unrelated, irrelevant, off-topic, off-theme"
+    },
+    {
+        "name": "Travel T-Shirt Design",
+        "prompt": "Travel, tourism, destinations, adventure, travel t-shirt design",
+        "negative_prompt": "stationary, immobile, non-travel, unrelated, off-topic"
+    },
+    {
+        "name": "Artistic T-Shirt Design",
+        "prompt": "Artistic, creative, expressive, imaginative, artistic t-shirt design",
+        "negative_prompt": "plain, unadorned, unembellished, unrelated, off-topic"
+    },
+  {
         "name": "Fooocus Sharp",
         "prompt": "cinematic still {prompt} . emotional, harmonious, vignette, 4k epic detailed, shot on kodak, 35mm photo, sharp focus, high budget, cinemascope, moody, epic, gorgeous, film grain, grainy",
         "negative_prompt": "anime, cartoon, graphic, (blur, blurry, bokeh), text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
